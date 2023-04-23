@@ -1,0 +1,118 @@
+[{
+  "_id": {
+    "$oid": "63625d6c9e87477639b6a23f"
+  },
+  "MAHD": "HD15",
+  "MANV": "NV03",
+  "MAKH": "KH03",
+  "TONGTIEN": 895000,
+  "MATT": "HTTT_TM"
+},{
+  "_id": {
+    "$oid": "63625fa09e87477639b6a24f"
+  },
+  "MAHD": "HD30",
+  "MANV": "NV06",
+  "MAKH": "KH11",
+  "TONGTIEN": 315000,
+  "MATT": "HTTT_CK"
+},{
+  "_id": {
+    "$oid": "636260269e87477639b6a253"
+  },
+  "MAHD": "HD33",
+  "MANV": "NV04",
+  "MAKH": "KH08",
+  "TONGTIEN": 223000,
+  "MATT": "HTTT_TM"
+},{
+  "_id": {
+    "$oid": "636260449e87477639b6a254"
+  },
+  "MAHD": "HD34",
+  "MANV": "NV01",
+  "MAKH": "KH01",
+  "TONGTIEN": 246000,
+  "MATT": "HTTT_MM"
+},{
+  "_id": {
+    "$oid": "636260649e87477639b6a255"
+  },
+  "MAHD": "HD35",
+  "MANV": "NV02",
+  "MAKH": "KH04",
+  "TONGTIEN": 206000,
+  "MATT": "HTTT_TM"
+},{
+  "_id": {
+    "$oid": "636260b29e87477639b6a256"
+  },
+  "MAHD": "HD36",
+  "MANV": "NV03",
+  "MAKH": "KH04",
+  "TONGTIEN": 295000,
+  "MATT": "HTTT_MM"
+},{
+  "_id": {
+    "$oid": "636260ee9e87477639b6a257"
+  },
+  "MAHD": "HD37",
+  "MANV": "NV03",
+  "MAKH": "KH09",
+  "TONGTIEN": 310000,
+  "MATT": "HTTT_CK"
+},{
+  "_id": {
+    "$oid": "636261129e87477639b6a258"
+  },
+  "MAHD": "HD38",
+  "MANV": "NV04",
+  "MAKH": "KH09",
+  "TONGTIEN": 470000,
+  "MATT": "HTTT_TM"
+},{
+  "_id": {
+    "$oid": "636261369e87477639b6a259"
+  },
+  "MAHD": "HD39",
+  "MANV": "NV04",
+  "MAKH": "KH09",
+  "TONGTIEN": 247000,
+  "MATT": "HTTT_CK"
+},{
+  "_id": {
+    "$oid": "6362615c9e87477639b6a25a"
+  },
+  "MAHD": "HD40",
+  "MANV": "NV05",
+  "MAKH": "KH09",
+  "TONGTIEN": 280000,
+  "MATT": "HTTT_TGN"
+},{
+  "_id": {
+    "$oid": "636261899e87477639b6a25b"
+  },
+  "MAHD": "HD41",
+  "MANV": "NV05",
+  "MAKH": "KH09",
+  "TONGTIEN": 110000,
+  "MATT": "HTTT_MM"
+},{
+  "_id": {
+    "$oid": "636261ae9e87477639b6a25c"
+  },
+  "MAHD": "HD42",
+  "MANV": "NV06",
+  "MAKH": "KH09",
+  "TONGTIEN": 425000,
+  "MATT": "HTTT_TM"
+},{
+  "_id": {
+    "$oid": "636261d19e87477639b6a25d"
+  },
+  "MAHD": "HD43",
+  "MANV": "NV06",
+  "MAKH": "KH11",
+  "TONGTIEN": 518000,
+  "MATT": "HTTT_CK"
+}]

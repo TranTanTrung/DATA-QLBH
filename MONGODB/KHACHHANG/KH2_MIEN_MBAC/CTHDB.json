@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "63626d4a1f20e2388a0b0ed4"
+  },
+  "MAHDCT": "MAHDCT_012",
+  "MAHD": "HD05",
+  "MAHANG": "MH08",
+  "SOLUONG": 25,
+  "DONGIA": 38000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 7600000
+},{
+  "_id": {
+    "$oid": "63626d521f20e2388a0b0ed5"
+  },
+  "MAHDCT": "MAHDCT_013",
+  "MAHD": "HD05",
+  "MAHANG": "MH02",
+  "SOLUONG": 25,
+  "DONGIA": 40000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 1000000
+},{
+  "_id": {
+    "$oid": "63626d581f20e2388a0b0ed6"
+  },
+  "MAHDCT": "MAHDCT_014",
+  "MAHD": "HD05",
+  "MAHANG": "MH03",
+  "SOLUONG": 25,
+  "DONGIA": 37000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 9250000
+}]

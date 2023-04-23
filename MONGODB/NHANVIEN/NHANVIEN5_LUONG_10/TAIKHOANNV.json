@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "63985cfa234bdf0ba94cfb27"
+  },
+  "MATK_NV": "MATK_NV07",
+  "MANV": "NV07",
+  "TENTK": "BAONGAN",
+  "MATKH": "BAONGAN"
+},{
+  "_id": {
+    "$oid": "63985d32234bdf0ba94cfb28"
+  },
+  "MATK_NV": "MATK_NV08",
+  "MANV": "NV08",
+  "TENTK": "VANCONG",
+  "MATKH": "VANCONG"
+}]

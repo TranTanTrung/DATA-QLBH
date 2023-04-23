@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "639850f3234bdf0ba94cfb1c"
+  },
+  "MACV": "CV1",
+  "TENCV": "QUẢN LÝ"
+},{
+  "_id": {
+    "$oid": "63985186234bdf0ba94cfb1d"
+  },
+  "MACV": "CV2",
+  "TENCV": "NHÂN VIÊN BÁN HÀNG"
+},{
+  "_id": {
+    "$oid": "639851b2234bdf0ba94cfb1f"
+  },
+  "MACV": "CV3",
+  "TENCV": "NHÂN VIÊN KHO"
+},{
+  "_id": {
+    "$oid": "639851f2234bdf0ba94cfb20"
+  },
+  "MACV": "CV4",
+  "TENCV": "QUẢN LÝ KHO"
+}]

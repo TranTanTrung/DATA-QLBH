@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "63626e1b9e87477639b6a2b3"
+  },
+  "MANV": "NV01",
+  "TENNV": "Phạm Nguyệt Anh",
+  "MACV": "CV2",
+  "GIOITINH": "Nữ",
+  "NGAYSINH": "2002-11-05",
+  "DIACHI": "Phường Thạnh Mĩ Lợi, Quận 2, Thành phố Hồ Chí Minh"
+},{
+  "_id": {
+    "$oid": "63626e7a9e87477639b6a2b4"
+  },
+  "MANV": "NV02",
+  "TENNV": "Nguyễn Minh Huy",
+  "MACV": "CV2",
+  "GIOITINH": "Nam",
+  "NGAYSINH": "2001-12-23",
+  "DIACHI": "26, Đường 57, Nguyễn Thị Lắng, Ấp Chợ, Tân Phú Trung, Củ Chi, Thành phố Hồ Chí Minh"
+},{
+  "_id": {
+    "$oid": "63626efe9e87477639b6a2b6"
+  },
+  "MANV": "NV03",
+  "TENNV": "Phạm Quang Dự",
+  "MACV": "CV2",
+  "GIOITINH": "Nam",
+  "NGAYSINH": "1999-01-01",
+  "DIACHI": "Tân Thông Hội, Củ Chi, Thành phố Hồ Chí Minh"
+},{
+  "_id": {
+    "$oid": "63626f429e87477639b6a2b7"
+  },
+  "MANV": "NV04",
+  "TENNV": "Nguyễn Khánh Duy",
+  "MACV": "CV2",
+  "GIOITINH": "Nam",
+  "NGAYSINH": "2003-06-08",
+  "DIACHI": "83, Phan Anh, Bình Trị Đông, Bình Tân, Thành phố Hồ Chí Minh"
+},{
+  "_id": {
+    "$oid": "63626f829e87477639b6a2b8"
+  },
+  "MANV": "NV05",
+  "TENNV": "Phước Công Nguyên",
+  "MACV": "CV2",
+  "GIOITINH": "Nam",
+  "NGAYSINH": "2002-08-01",
+  "DIACHI": "139/16, Đường Chiến Lược, Bình Trị Đông, Bình Tân, Thành phố Hồ Chí Minh"
+},{
+  "_id": {
+    "$oid": "636270229e87477639b6a2ba"
+  },
+  "MANV": "NV06",
+  "TENNV": "Phạm Trương Gia Hân",
+  "MACV": "CV2",
+  "GIOITINH": "Nữ",
+  "NGAYSINH": "2000-09-13",
+  "DIACHI": "265, Nguyễn Trãi, Phường Nguyễn Cư Trinh, Quận 1, Thành phố Hồ Chí Minh"
+},{
+  "_id": {
+    "$oid": "63985be4234bdf0ba94cfb24"
+  },
+  "MANV": "NV09",
+  "TENNV": "Đoàn Văn Tú",
+  "MACV": "CV3",
+  "GIOITINH": "Nam",
+  "NGAYSINH": "1999-10-10",
+  "DIACHI": "99, Nguyễn Thị Minh Khai, Phường Nguyễn Thiện Thuật, Quận 3, Thành phố Hồ Chí Minh",
+  "_id": {
+    "$oid": "63985c4b234bdf0ba94cfb25"
+  },
+  "MANV": "NV10",
+  "TENNV": "Phan Thị Diễm",
+  "MACV": "CV3",
+  "GIOITINH": "Nữ",
+  "NGAYSINH": "2002-01-28",
+  "DIACHI": "25, Lý Thái Tổ, Phường Bàn Cờ, Quận 10, Thành phố Hồ Chí Minh"
+}]

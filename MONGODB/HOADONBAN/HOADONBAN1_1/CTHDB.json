@@ -1,0 +1,331 @@
+[{
+  "_id": {
+    "$oid": "63626dd71f20e2388a0b0ee5"
+  },
+  "MAHDCT": "MAHDCT_029",
+  "MAHD": "HD15",
+  "MAHANG": "MH02",
+  "SOLUONG": 15,
+  "DONGIA": 35000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 525000
+},{
+  "_id": {
+    "$oid": "63626dde1f20e2388a0b0ee6"
+  },
+  "MAHDCT": "MAHDCT_030",
+  "MAHD": "HD15",
+  "MAHANG": "MH03",
+  "SOLUONG": 10,
+  "DONGIA": 37000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 370000
+},{
+  "_id": {
+    "$oid": "63626f141f20e2388a0b0f03"
+  },
+  "MAHDCT": "MAHDCT_057",
+  "MAHD": "HD30",
+  "MAHANG": "MH01",
+  "SOLUONG": 9,
+  "DONGIA": 35000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 315000
+},{
+  "_id": {
+    "$oid": "63626f431f20e2388a0b0f0a"
+  },
+  "MAHDCT": "MAHDCT_064",
+  "MAHD": "HD33",
+  "MAHANG": "MH08",
+  "SOLUONG": 1,
+  "DONGIA": 38000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 38000
+},{
+  "_id": {
+    "$oid": "63626f4a1f20e2388a0b0f0b"
+  },
+  "MAHDCT": "MAHDCT_065",
+  "MAHD": "HD33",
+  "MAHANG": "MH01",
+  "SOLUONG": 3,
+  "DONGIA": 35000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 105000
+},{
+  "_id": {
+    "$oid": "63626f541f20e2388a0b0f0c"
+  },
+  "MAHDCT": "MAHDCT_066",
+  "MAHD": "HD33",
+  "MAHANG": "MH02",
+  "SOLUONG": 2,
+  "DONGIA": 40000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 80000
+},{
+  "_id": {
+    "$oid": "63626f5b1f20e2388a0b0f0d"
+  },
+  "MAHDCT": "MAHDCT_067",
+  "MAHD": "HD34",
+  "MAHANG": "MH07",
+  "SOLUONG": 1,
+  "DONGIA": 46000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 46000
+},{
+  "_id": {
+    "$oid": "63626f621f20e2388a0b0f0e"
+  },
+  "MAHDCT": "MAHDCT_068",
+  "MAHD": "HD34",
+  "MAHANG": "MH09",
+  "SOLUONG": 1,
+  "DONGIA": 90000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 90000
+},{
+  "_id": {
+    "$oid": "63626f671f20e2388a0b0f0f"
+  },
+  "MAHDCT": "MAHDCT_069",
+  "MAHD": "HD34",
+  "MAHANG": "MH12",
+  "SOLUONG": 1,
+  "DONGIA": 110000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 110000
+},{
+  "_id": {
+    "$oid": "63626f6d1f20e2388a0b0f10"
+  },
+  "MAHDCT": "MAHDCT_070",
+  "MAHD": "HD35",
+  "MAHANG": "MH05",
+  "SOLUONG": 1,
+  "DONGIA": 70000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 70000
+},{
+  "_id": {
+    "$oid": "63626f721f20e2388a0b0f11"
+  },
+  "MAHDCT": "MAHDCT_071",
+  "MAHD": "HD35",
+  "MAHANG": "MH07",
+  "SOLUONG": 1,
+  "DONGIA": 46000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 46000
+},{
+  "_id": {
+    "$oid": "63626f781f20e2388a0b0f12"
+  },
+  "MAHDCT": "MAHDCT_072",
+  "MAHD": "HD35",
+  "MAHANG": "MH09",
+  "SOLUONG": 1,
+  "DONGIA": 90000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 90000
+},{
+  "_id": {
+    "$oid": "63626f7d1f20e2388a0b0f13"
+  },
+  "MAHDCT": "MAHDCT_073",
+  "MAHD": "HD36",
+  "MAHANG": "MH06",
+  "SOLUONG": 1,
+  "DONGIA": 100000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 100000
+},{
+  "_id": {
+    "$oid": "63626f831f20e2388a0b0f14"
+  },
+  "MAHDCT": "MAHDCT_074",
+  "MAHD": "HD36",
+  "MAHANG": "MH04",
+  "SOLUONG": 1,
+  "DONGIA": 80000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 160000
+},{
+  "_id": {
+    "$oid": "63626f881f20e2388a0b0f15"
+  },
+  "MAHDCT": "MAHDCT_075",
+  "MAHD": "HD36",
+  "MAHANG": "MH01",
+  "SOLUONG": 1,
+  "DONGIA": 35000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 35000
+},{
+  "_id": {
+    "$oid": "63626f921f20e2388a0b0f16"
+  },
+  "MAHDCT": "MAHDCT_076",
+  "MAHD": "HD37",
+  "MAHANG": "MH11",
+  "SOLUONG": 1,
+  "DONGIA": 200000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 200000
+},{
+  "_id": {
+    "$oid": "63626f991f20e2388a0b0f17"
+  },
+  "MAHDCT": "MAHDCT_077",
+  "MAHD": "HD37",
+  "MAHANG": "MH12",
+  "SOLUONG": 1,
+  "DONGIA": 110000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 110000
+},{
+  "_id": {
+    "$oid": "63626fa01f20e2388a0b0f18"
+  },
+  "MAHDCT": "MAHDCT_078",
+  "MAHD": "HD38",
+  "MAHANG": "MH05",
+  "SOLUONG": 1,
+  "DONGIA": 70000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 70000
+},{
+  "_id": {
+    "$oid": "63626fa81f20e2388a0b0f19"
+  },
+  "MAHDCT": "MAHDCT_079",
+  "MAHD": "HD38",
+  "MAHANG": "MH11",
+  "SOLUONG": 2,
+  "DONGIA": 200000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 400000
+},{
+  "_id": {
+    "$oid": "63626fb31f20e2388a0b0f1a"
+  },
+  "MAHDCT": "MAHDCT_080",
+  "MAHD": "HD39",
+  "MAHANG": "MH03",
+  "SOLUONG": 1,
+  "DONGIA": 37000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 37000
+},{
+  "_id": {
+    "$oid": "63626fba1f20e2388a0b0f1b"
+  },
+  "MAHDCT": "MAHDCT_081",
+  "MAHD": "HD39",
+  "MAHANG": "MH05",
+  "SOLUONG": 3,
+  "DONGIA": 70000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 210000
+},{
+  "_id": {
+    "$oid": "63626fbf1f20e2388a0b0f1c"
+  },
+  "MAHDCT": "MAHDCT_082",
+  "MAHD": "HD40",
+  "MAHANG": "MH04",
+  "SOLUONG": 1,
+  "DONGIA": 80000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 80000
+},{
+  "_id": {
+    "$oid": "63626fc71f20e2388a0b0f1d"
+  },
+  "MAHDCT": "MAHDCT_083",
+  "MAHD": "HD40",
+  "MAHANG": "MH06",
+  "SOLUONG": 1,
+  "DONGIA": 100000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 100000
+},{
+  "_id": {
+    "$oid": "63626fcf1f20e2388a0b0f1e"
+  },
+  "MAHDCT": "MAHDCT_084",
+  "MAHD": "HD41",
+  "MAHANG": "MH02",
+  "SOLUONG": 1,
+  "DONGIA": 40000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 40000
+},{
+  "_id": {
+    "$oid": "63626fd51f20e2388a0b0f1f"
+  },
+  "MAHDCT": "MAHDCT_085",
+  "MAHD": "HD41",
+  "MAHANG": "MH05",
+  "SOLUONG": 1,
+  "DONGIA": 70000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 70000
+},{
+  "_id": {
+    "$oid": "63626fdb1f20e2388a0b0f20"
+  },
+  "MAHDCT": "MAHDCT_086",
+  "MAHD": "HD42",
+  "MAHANG": "MH01",
+  "SOLUONG": 3,
+  "DONGIA": 35000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 105000
+},{
+  "_id": {
+    "$oid": "63626fe21f20e2388a0b0f21"
+  },
+  "MAHDCT": "MAHDCT_087",
+  "MAHD": "HD42",
+  "MAHANG": "MH05",
+  "SOLUONG": 4,
+  "DONGIA": 70000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 280000
+},{
+  "_id": {
+    "$oid": "63626fe71f20e2388a0b0f22"
+  },
+  "MAHDCT": "MAHDCT_088",
+  "MAHD": "HD42",
+  "MAHANG": "MH02",
+  "SOLUONG": 1,
+  "DONGIA": 40000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 40000
+},{
+  "_id": {
+    "$oid": "63626fee1f20e2388a0b0f23"
+  },
+  "MAHDCT": "MAHDCT_089",
+  "MAHD": "HD43",
+  "MAHANG": "MH10",
+  "SOLUONG": 2,
+  "DONGIA": 59000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 118000
+},{
+  "_id": {
+    "$oid": "63626ff31f20e2388a0b0f24"
+  },
+  "MAHDCT": "MAHDCT_090",
+  "MAHD": "HD43",
+  "MAHANG": "MH04",
+  "SOLUONG": 5,
+  "DONGIA": 80000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 400000
+}]

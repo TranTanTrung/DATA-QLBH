@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "63626a859e87477639b6a283"
+  },
+  "MATK_NV": "MATK_NV01",
+  "MANV": "NV01",
+  "TENTK": "NGUYETANH123",
+  "MATKH": "NGUYETANH123"
+},{
+  "_id": {
+    "$oid": "63626ac39e87477639b6a284"
+  },
+  "MATK_NV": "MATK_NV02",
+  "MANV": "NV02",
+  "TENTK": "HUYR",
+  "MATKH": "HUYR"
+},{
+  "_id": {
+    "$oid": "63626acf9e87477639b6a285"
+  },
+  "MATK_NV": "MATK_NV03",
+  "MANV": "NV03",
+  "TENTK": "QUANGQUANGDU",
+  "MATKH": "QUANGQUANGDU"
+},{
+  "_id": {
+    "$oid": "63626ad69e87477639b6a286"
+  },
+  "MATK_NV": "MATK_NV04",
+  "MANV": "NV04",
+  "TENTK": "DUYDUY",
+  "MATKH": "DUYDUY"
+},{
+  "_id": {
+    "$oid": "63626add9e87477639b6a287"
+  },
+  "MATK_NV": "MATK_NV05",
+  "MANV": "NV05",
+  "TENTK": "PHUOCCONGNGUYEN",
+  "MATKH": "PHUOCCONGNGUYEN"
+},{
+  "_id": {
+    "$oid": "63626ae69e87477639b6a288"
+  },
+  "MATK_NV": "MATK_NV06",
+  "MANV": "NV06",
+  "TENTK": "GIAHAN",
+  "MATKH": "GIAHAN"
+},{
+  "_id": {
+    "$oid": "63985cfa234bdf0ba94cfb27"
+  },
+  "MATK_NV": "MATK_NV07",
+  "MANV": "NV07",
+  "TENTK": "BAONGAN",
+  "MATKH": "BAONGAN"
+},{
+  "_id": {
+    "$oid": "63985d32234bdf0ba94cfb28"
+  },
+  "MATK_NV": "MATK_NV08",
+  "MANV": "NV08",
+  "TENTK": "VANCONG",
+  "MATKH": "VANCONG"
+},{
+  "_id": {
+    "$oid": "63985d51234bdf0ba94cfb29"
+  },
+  "MATK_NV": "MATK_NV09",
+  "MANV": "NV09",
+  "TENTK": "VANTU",
+  "MATKH": "VANTU"
+},{
+  "_id": {
+    "$oid": "63985d69234bdf0ba94cfb2a"
+  },
+  "MATK_NV": "MATK_NV10",
+  "MANV": "NV10",
+  "TENTK": "THIDIEM",
+  "MATKH": "THIDIEM"
+}]

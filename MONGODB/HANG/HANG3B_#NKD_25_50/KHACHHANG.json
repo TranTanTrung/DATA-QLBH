@@ -1,0 +1,169 @@
+[{
+  "_id": {
+    "$oid": "6363606e4f049de5d1071f19"
+  },
+  "MAKH": "KH01",
+  "TENKH": "Trần Thái Nguyên",
+  "GIOITINH": "Nam",
+  "NGAYSINH": "2002-06-11",
+  "DIACHI": "266 Tô Hiến Thành, Phường 15, Quận 10, Thành phố Hồ Chí Minh",
+  "MIEN": "NAM",
+  "DIENTHOAI": "0945373250",
+  "EMAIL": "thainguyen1106@gmail.com",
+  "SLMUAHANG": 3,
+  "TONGTIEN": 4381000
+},{
+  "_id": {
+    "$oid": "636360864f049de5d1071f1a"
+  },
+  "MAKH": "KH02",
+  "TENKH": "Đoàn Văn Đức",
+  "GIOITINH": "Nam",
+  "NGAYSING": "2001-05-01",
+  "DIACHI": "51 Thành Thái, Phường 16, Quận 10, Thành phố Hồ Chí Minh",
+  "MIEN": "NAM",
+  "DIENTHOAI": "0349633678",
+  "EMAIL": "vanduc0105@gmail.com",
+  "SLMUAHANG": 3,
+  "TONGTIEN": 20995000
+},{
+  "_id": {
+    "$oid": "6363608f4f049de5d1071f1b"
+  },
+  "MAKH": "KH03",
+  "TENKH": "Nguyễn Văn Toàn",
+  "GIOITINH": "Nam",
+  "NGAYSINH": "2002-08-12",
+  "DIACHI": "21 Nguyễn Thị Thực, Phường 2, Quận 3",
+  "MIEN": "NAM",
+  "DIENTHOAI": "0909365872",
+  "EMAIL": "vantoan1208@gmail.com",
+  "SLMUAHANG": 2,
+  "TONGTIEN": 4795000
+},{
+  "_id": {
+    "$oid": "6363609c4f049de5d1071f1c"
+  },
+  "MAKH": "KH04",
+  "TENKH": "Trần Tấn Trung",
+  "GIOITINH": "Nam",
+  "NGAYSINH": "2002-03-22",
+  "DIACHI": "25/3C xã Bà Điểm, huyện Hóc Môn",
+  "MIEN": "NAM",
+  "DIENTHOAI": "0789654342",
+  "EMAIL": "tantrung2203@gmail.com",
+  "SLMUAHANG": 5,
+  "TONGTIEN": 8171000
+},{
+  "_id": {
+    "$oid": "636360a54f049de5d1071f1d"
+  },
+  "MAKH": "KH05",
+  "TENKH": "Denni Trần",
+  "GIOITINH": "Nam",
+  "NGAYSINH": "2003-02-10",
+  "DIACHI": "20/5A xã Nghĩa Lạc, huyện Nghĩa Hưng, tỉnh Nam Định",
+  "MIEN": "BAC",
+  "DIENTHOAI": "0987675657",
+  "EMAIL": "Dennitran1002@gmail.com",
+  "SLMUAHANG": 1,
+  "TONGTIEN": 2875000
+},{
+  "_id": {
+    "$oid": "636360ae4f049de5d1071f1e"
+  },
+  "MAKH": "KH06",
+  "TENKH": "Ngô Thảo Ngân",
+  "GIOITINH": "Nữ",
+  "NGAYSINH": "2004-05-07",
+  "DIACHI": "92/4, Vườn Lài, An Phú Đông",
+  "MIEN": "NAM",
+  "DIENTHOAI": "0973337043",
+  "EMAIL": "thaongan0705@gmail.com",
+  "SLMUAHANG": 2,
+  "TONGTIEN": 9950000
+},{
+  "_id": {
+    "$oid": "636360b54f049de5d1071f1f"
+  },
+  "MAKH": "KH07",
+  "TENKH": "Trương Duy Khanh",
+  "GIOITINH": "Nam",
+  "NGAYSINH": "2002-09-03",
+  "DIACHI": "Đường Nguyễn Văn Linh, Phường An Khánh, Quận Ninh Kiều, Cần Thơ",
+  "MIEN": "NAM",
+  "DIENTHOAI": "0364494988",
+  "EMAIL": "duykhanh0309@gmail.com",
+  "SLMUAHANG": 2,
+  "TONGTIEN": 5825000
+},{
+  "_id": {
+    "$oid": "636360be4f049de5d1071f20"
+  },
+  "MAKH": "KH08",
+  "TENKH": "Lê Thị Thanh Chúc",
+  "GIOITINH": "Nữ",
+  "NGAYSINH": "2002-05-10",
+  "DIACHI": "30 Lê Quý Đôn, phường Võ Thị Sáu, Quận 3",
+  "MIEN": "NAM",
+  "DIENTHOAI": "0969780427",
+  "EMAIL": "thanhchuc1005@gmail.com",
+  "SLMUAHANG": 5,
+  "TONGTIEN": 15358000
+},{
+  "_id": {
+    "$oid": "636360d34f049de5d1071f21"
+  },
+  "MAKH": "KH09",
+  "TENKH": "Trần Bảo Linh",
+  "GIOITINH": "Nữ",
+  "NGAYSINH": "1999-05-10",
+  "DIACHI": "Nguyễn Thị Tần, Phường 2, Quận 8, Thành phố Hồ Chí Minh",
+  "MIEN": "NAM",
+  "DIENTHOAI": "0852333503",
+  "EMAIL": "baolinh1005@gmail.com",
+  "SLMUAHANG": 4,
+  "TONGTIEN": 28392000
+},{
+  "_id": {
+    "$oid": "636360de4f049de5d1071f22"
+  },
+  "MAKH": "KH10",
+  "TENKH": "Trần Công Minh",
+  "GIOITINH": "Nam",
+  "NGAYSINH": "1997-10-10",
+  "DIACHI": "Dương Bá Tràng, Phường 1 Quận 8, Thành phố Hồ Chí Minh",
+  "MIEN": "NAM",
+  "DIENTHOAI": "0852303921",
+  "EMAIL": "congminh1010@gmail.com",
+  "SLMUAHANG": 1,
+  "TONGTIEN": 2330000
+},{
+  "_id": {
+    "$oid": "636360e54f049de5d1071f23"
+  },
+  "MAKH": "KH11",
+  "TENKH": "Nguyễn Thị Huyền Trâm",
+  "GIOITINH": "Nữ",
+  "NGAYSINH": "1999-09-01",
+  "DIACHI": "Võ Văn Kiệt, Phường 1, Quận 5",
+  "MIEN": "NAM",
+  "DIENTHOAI": "0919900102",
+  "EMAIL": "nguyenthihuyentram0109@gmail.com",
+  "SLMUAHANG": 4,
+  "TONGTIEN": 8023000
+},{
+  "_id": {
+    "$oid": "636361254f049de5d1071f24"
+  },
+  "MAKH": "KH12",
+  "TENKH": "Dương Phương Quỳnh",
+  "GIOITINH": "Nữ",
+  "NGAYSINH": "2004-08-25",
+  "DIACHI": "196/5, Xóm Chiếu, Phường 14, Quận 4, Thành phố Hồ Chí Minh",
+  "MIEN": "NAM",
+  "DIENTHOAI": "0858223584",
+  "EMAIL": "phuongquynh2508@gmail.com",
+  "SLMUAHANG": 5,
+  "TONGTIEN": 10100000
+}]

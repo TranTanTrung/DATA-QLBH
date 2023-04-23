@@ -1,0 +1,44 @@
+[{
+ 
+  "_id": {
+    "$oid": "63626be11f20e2388a0b0eb2"
+  },
+  "MALSNH": "MA_LSNH06",
+  "MAHANG": "MH06",
+  "TONKHO": 0,
+  "SOLUONGNHAP": 1600,
+  "TONGKHO": 1600,
+  "THOIGIAN": "2021-05-30"
+},{
+  
+  "_id": {
+    "$oid": "63626bf91f20e2388a0b0eb5"
+  },
+  "MALSNH": "MA_LSNH09",
+  "MAHANG": "MH09",
+  "TONKHO": 0,
+  "SOLUONGNHAP": 1500,
+  "TONGKHO": 1500,
+  "THOIGIAN": "2021-06-30"
+},{
+ 
+  "_id": {
+    "$oid": "63626c0b1f20e2388a0b0eb7"
+  },
+  "MALSNH": "MA_LSNH11",
+  "MAHANG": "MH11",
+  "TONKHO": 0,
+  "SOLUONGNHAP": 2000,
+  "TONGKHO": 2000,
+  "THOIGIAN": "2020-07-15"
+},{
+  "_id": {
+    "$oid": "63626c0f1f20e2388a0b0eb8"
+  },
+  "MALSNH": "MA_LSNH12",
+  "MAHANG": "MH12",
+  "TONKHO": 0,
+  "SOLUONGNHAP": 33500,
+  "TONGKHO": 33500,
+  "THOIGIAN": "2020-07-15"
+}]

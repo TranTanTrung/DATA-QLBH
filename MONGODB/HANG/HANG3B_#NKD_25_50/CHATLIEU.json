@@ -1,0 +1,115 @@
+[{
+  "_id": {
+    "$oid": "63626ce49e87477639b6a29d"
+  },
+  "MACL": "TT",
+  "TENCL": "Thuỷ tinh"
+},{
+  "_id": {
+    "$oid": "63626cea9e87477639b6a29e"
+  },
+  "MACL": "PL",
+  "TENCL": "Pha lê"
+},{
+  "_id": {
+    "$oid": "63626cf79e87477639b6a29f"
+  },
+  "MACL": "GÐ",
+  "TENCL": "Gỗ đồng"
+},{
+  "_id": {
+    "$oid": "63626cff9e87477639b6a2a0"
+  },
+  "MACL": "MI",
+  "TENCL": "MICA"
+},{
+  "_id": {
+    "$oid": "63626d089e87477639b6a2a1"
+  },
+  "MACL": "NH",
+  "TENCL": "Nhựa"
+},{
+  "_id": {
+    "$oid": "63626d109e87477639b6a2a2"
+  },
+  "MACL": "TR",
+  "TENCL": "Tre"
+},{
+  "_id": {
+    "$oid": "63626d169e87477639b6a2a3"
+  },
+  "MACL": "S",
+  "TENCL": "Sợi cacbon"
+},{
+  "_id": {
+    "$oid": "63626d1d9e87477639b6a2a4"
+  },
+  "MACL": "V",
+  "TENCL": "Vãi"
+},{
+  "_id": {
+    "$oid": "63626d239e87477639b6a2a5"
+  },
+  "MACL": "NHLC",
+  "TENCL": "Nguyên liệu hữu cơ"
+},{
+  "_id": {
+    "$oid": "63626d299e87477639b6a2a6"
+  },
+  "MACL": "G",
+  "TENCL": "Gốm"
+},{
+  "_id": {
+    "$oid": "63626d309e87477639b6a2a7"
+  },
+  "MACL": "Su",
+  "TENCL": "Sứ"
+},{
+  "_id": {
+    "$oid": "63626d379e87477639b6a2a8"
+  },
+  "MACL": "CS",
+  "TENCL": "Cao su"
+},{
+  "_id": {
+    "$oid": "63626d449e87477639b6a2aa"
+  },
+  "MACL": "I",
+  "TENCL": "Inox"
+},{
+  "_id": {
+    "$oid": "63626d509e87477639b6a2ab"
+  },
+  "MACL": "MN",
+  "TENCL": "Mã não"
+},{
+  "_id": {
+    "$oid": "63626d6a9e87477639b6a2ac"
+  },
+  "MACL": "D",
+  "TENCL": "Da"
+},{
+  "_id": {
+    "$oid": "63626d749e87477639b6a2ad"
+  },
+  "MACL": "CT",
+  "TENCL": "Cẩm thạch"
+},{
+  "_id": {
+    "$oid": "63626d829e87477639b6a2ae"
+  },
+  "MACL": "B",
+  "TENCL": "Bạc"
+},{
+  "_id": {
+    "$oid": "63626d8c9e87477639b6a2af"
+  },
+  "MACL": "M",
+  "TENCL": "Mây"
+},{
+  "_id": {
+    "$oid": "63626d929e87477639b6a2b0"
+  },
+  "MACL": "VO",
+  "TENCL": "Vỏ ốc"
+}]

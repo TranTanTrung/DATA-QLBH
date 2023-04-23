@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "636360a54f049de5d1071f1d"
+  },
+  "MAKH": "KH05",
+  "TENKH": "Denni Trần",
+  "NGAYSINH": "2003-02-10",
+  "MIEN": "BAC",
+  "EMAIL": "Dennitran1002@gmail.com"
+}]

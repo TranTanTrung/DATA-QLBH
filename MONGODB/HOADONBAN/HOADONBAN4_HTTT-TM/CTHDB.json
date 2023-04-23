@@ -1,0 +1,375 @@
+[{
+  "_id": {
+    "$oid": "63626ce31f20e2388a0b0ec9"
+  },
+  "MAHDCT": "MAHDCT_001",
+  "MAHD": "HD01",
+  "MAHANG": "MH01",
+  "SOLUONG": 31,
+  "DONGIA": 35000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 1085000
+},{
+  "_id": {
+    "$oid": "63626d0f1f20e2388a0b0ece"
+  },
+  "MAHDCT": "MAHDCT_006",
+  "MAHD": "HD03",
+  "MAHANG": "MH04",
+  "SOLUONG": 15,
+  "DONGIA": 80000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 1200000
+},{
+  "_id": {
+    "$oid": "63626d161f20e2388a0b0ecf"
+  },
+  "MAHDCT": "MAHDCT_007",
+  "MAHD": "HD03",
+  "MAHANG": "MH05",
+  "SOLUONG": 15,
+  "DONGIA": 70000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 1050000
+},{
+  "_id": {
+    "$oid": "63626d1f1f20e2388a0b0ed0"
+  },
+  "MAHDCT": "MAHDCT_008",
+  "MAHD": "HD03",
+  "MAHANG": "MH12",
+  "SOLUONG": 15,
+  "DONGIA": 110000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 16500000
+},{
+  "_id": {
+    "$oid": "63626d4a1f20e2388a0b0ed4"
+  },
+  "MAHDCT": "MAHDCT_012",
+  "MAHD": "HD05",
+  "MAHANG": "MH08",
+  "SOLUONG": 25,
+  "DONGIA": 38000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 7600000
+},{
+  "_id": {
+    "$oid": "63626d521f20e2388a0b0ed5"
+  },
+  "MAHDCT": "MAHDCT_013",
+  "MAHD": "HD05",
+  "MAHANG": "MH02",
+  "SOLUONG": 25,
+  "DONGIA": 40000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 1000000
+},{
+  "_id": {
+    "$oid": "63626d581f20e2388a0b0ed6"
+  },
+  "MAHDCT": "MAHDCT_014",
+  "MAHD": "HD05",
+  "MAHANG": "MH03",
+  "SOLUONG": 25,
+  "DONGIA": 37000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 9250000
+},{
+  "_id": {
+    "$oid": "63626d7a1f20e2388a0b0eda"
+  },
+  "MAHDCT": "MAHDCT_018",
+  "MAHD": "HD09",
+  "MAHANG": "MH11",
+  "SOLUONG": 90,
+  "DONGIA": 200000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 18000000
+},{
+  "_id": {
+    "$oid": "63626d801f20e2388a0b0edb"
+  },
+  "MAHDCT": "MAHDCT_019",
+  "MAHD": "HD10",
+  "MAHANG": "MH07",
+  "SOLUONG": 10,
+  "DONGIA": 46000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 4600000
+},{
+  "_id": {
+    "$oid": "63626d871f20e2388a0b0edc"
+  },
+  "MAHDCT": "MAHDCT_020",
+  "MAHD": "HD10",
+  "MAHANG": "MH08",
+  "SOLUONG": 10,
+  "DONGIA": 38000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 380000
+},{
+  "_id": {
+    "$oid": "63626d8c1f20e2388a0b0edd"
+  },
+  "MAHDCT": "MAHDCT_021",
+  "MAHD": "HD10",
+  "MAHANG": "MH09",
+  "SOLUONG": 10,
+  "DONGIA": 90000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 900000
+},{
+  "_id": {
+    "$oid": "63626d921f20e2388a0b0ede"
+  },
+  "MAHDCT": "MAHDCT_022",
+  "MAHD": "HD10",
+  "MAHANG": "MH11",
+  "SOLUONG": 10,
+  "DONGIA": 200000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 2000000
+},{
+  "_id": {
+    "$oid": "63626dd71f20e2388a0b0ee5"
+  },
+  "MAHDCT": "MAHDCT_029",
+  "MAHD": "HD15",
+  "MAHANG": "MH02",
+  "SOLUONG": 15,
+  "DONGIA": 35000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 525000
+},{
+  "_id": {
+    "$oid": "63626dde1f20e2388a0b0ee6"
+  },
+  "MAHDCT": "MAHDCT_030",
+  "MAHD": "HD15",
+  "MAHANG": "MH03",
+  "SOLUONG": 10,
+  "DONGIA": 37000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 370000
+},{
+  "_id": {
+    "$oid": "63626de51f20e2388a0b0ee7"
+  },
+  "MAHDCT": "MAHDCT_031",
+  "MAHD": "HD16",
+  "MAHANG": "MH02",
+  "SOLUONG": 30,
+  "DONGIA": 40000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 1200000
+},{
+  "_id": {
+    "$oid": "63626dee1f20e2388a0b0ee8"
+  },
+  "MAHDCT": "MAHDCT_032",
+  "MAHD": "HD16",
+  "MAHANG": "MH08",
+  "SOLUONG": 15,
+  "DONGIA": 38000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 570000
+},{
+  "_id": {
+    "$oid": "63626e701f20e2388a0b0ef2"
+  },
+  "MAHDCT": "MAHDCT_041",
+  "MAHD": "HD21",
+  "MAHANG": "MH04",
+  "SOLUONG": 15,
+  "DONGIA": 80000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 1200000
+},{
+  "_id": {
+    "$oid": "63626e9f1f20e2388a0b0ef4"
+  },
+  "MAHDCT": "MAHDCT_042",
+  "MAHD": "HD21",
+  "MAHANG": "MH10",
+  "SOLUONG": 10,
+  "DONGIA": 59000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 590000
+},{
+  "_id": {
+    "$oid": "63626ea81f20e2388a0b0ef5"
+  },
+  "MAHDCT": "MAHDCT_043",
+  "MAHD": "HD22",
+  "MAHANG": "MH07",
+  "SOLUONG": 20,
+  "DONGIA": 46000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 920000
+},{
+  "_id": {
+    "$oid": "63626f001f20e2388a0b0f00"
+  },
+  "MAHDCT": "MAHDCT_054",
+  "MAHD": "HD27",
+  "MAHANG": "MH02",
+  "SOLUONG": 34,
+  "DONGIA": 40000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 1360000
+},{
+  "_id": {
+    "$oid": "63626f1a1f20e2388a0b0f04"
+  },
+  "MAHDCT": "MAHDCT_058",
+  "MAHD": "HD31",
+  "MAHANG": "MH02",
+  "SOLUONG": 10,
+  "DONGIA": 40000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 400000
+},{
+  "_id": {
+    "$oid": "63626f201f20e2388a0b0f05"
+  },
+  "MAHDCT": "MAHDCT_059",
+  "MAHD": "HD31",
+  "MAHANG": "MH05",
+  "SOLUONG": 10,
+  "DONGIA": 70000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 700000
+},{
+  "_id": {
+    "$oid": "63626f261f20e2388a0b0f06"
+  },
+  "MAHDCT": "MAHDCT_060",
+  "MAHD": "HD31",
+  "MAHANG": "MH07",
+  "SOLUONG": 10,
+  "DONGIA": 46000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 460000
+},{
+  "_id": {
+    "$oid": "63626f431f20e2388a0b0f0a"
+  },
+  "MAHDCT": "MAHDCT_064",
+  "MAHD": "HD33",
+  "MAHANG": "MH08",
+  "SOLUONG": 1,
+  "DONGIA": 38000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 38000
+},{
+  "_id": {
+    "$oid": "63626f4a1f20e2388a0b0f0b"
+  },
+  "MAHDCT": "MAHDCT_065",
+  "MAHD": "HD33",
+  "MAHANG": "MH01",
+  "SOLUONG": 3,
+  "DONGIA": 35000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 105000
+},{
+  "_id": {
+    "$oid": "63626f541f20e2388a0b0f0c"
+  },
+  "MAHDCT": "MAHDCT_066",
+  "MAHD": "HD33",
+  "MAHANG": "MH02",
+  "SOLUONG": 2,
+  "DONGIA": 40000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 80000
+},{
+  "_id": {
+    "$oid": "63626f6d1f20e2388a0b0f10"
+  },
+  "MAHDCT": "MAHDCT_070",
+  "MAHD": "HD35",
+  "MAHANG": "MH05",
+  "SOLUONG": 1,
+  "DONGIA": 70000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 70000
+},{
+  "_id": {
+    "$oid": "63626f721f20e2388a0b0f11"
+  },
+  "MAHDCT": "MAHDCT_071",
+  "MAHD": "HD35",
+  "MAHANG": "MH07",
+  "SOLUONG": 1,
+  "DONGIA": 46000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 46000
+},{
+  "_id": {
+    "$oid": "63626f781f20e2388a0b0f12"
+  },
+  "MAHDCT": "MAHDCT_072",
+  "MAHD": "HD35",
+  "MAHANG": "MH09",
+  "SOLUONG": 1,
+  "DONGIA": 90000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 90000
+},{
+  "_id": {
+    "$oid": "63626fa01f20e2388a0b0f18"
+  },
+  "MAHDCT": "MAHDCT_078",
+  "MAHD": "HD38",
+  "MAHANG": "MH05",
+  "SOLUONG": 1,
+  "DONGIA": 70000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 70000
+},{
+  "_id": {
+    "$oid": "63626fa81f20e2388a0b0f19"
+  },
+  "MAHDCT": "MAHDCT_079",
+  "MAHD": "HD38",
+  "MAHANG": "MH11",
+  "SOLUONG": 2,
+  "DONGIA": 200000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 400000
+},{
+  "_id": {
+    "$oid": "63626fdb1f20e2388a0b0f20"
+  },
+  "MAHDCT": "MAHDCT_086",
+  "MAHD": "HD42",
+  "MAHANG": "MH01",
+  "SOLUONG": 3,
+  "DONGIA": 35000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 105000
+},{
+  "_id": {
+    "$oid": "63626fe21f20e2388a0b0f21"
+  },
+  "MAHDCT": "MAHDCT_087",
+  "MAHD": "HD42",
+  "MAHANG": "MH05",
+  "SOLUONG": 4,
+  "DONGIA": 70000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 280000
+},{
+  "_id": {
+    "$oid": "63626fe71f20e2388a0b0f22"
+  },
+  "MAHDCT": "MAHDCT_088",
+  "MAHD": "HD42",
+  "MAHANG": "MH02",
+  "SOLUONG": 1,
+  "DONGIA": 40000,
+  "GIAMGIA": 0,
+  "THANHTIEN": 40000
+}]

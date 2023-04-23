@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "636269489e87477639b6a279"
+  },
+  "MATK_KH": "MATK_KH06",
+  "MAKH": "KH06",
+  "TENTK": "THAONGAN0705",
+  "MATKH": "THAONGAN0705"
+},{
+  "_id": {
+    "$oid": "6362695b9e87477639b6a27b"
+  },
+  "MATK_KH": "MATK_KH08",
+  "MAKH": "KH08",
+  "TENTK": "THANHCHUC1005",
+  "MATKH": "THANHCHUC1005"
+},{
+  "_id": {
+    "$oid": "636269619e87477639b6a27c"
+  },
+  "MATK_KH": "MATK_KH09",
+  "MAKH": "KH09",
+  "TENTK": "BAOLINH1005",
+  "MATKH": "BAOLINH1005"
+},{
+  "_id": {
+    "$oid": "6362697e9e87477639b6a27f"
+  },
+  "MATK_KH": "MATK_KH11",
+  "MAKH": "KH11",
+  "TENTK": "HUYENTRAM0109",
+  "MATKH": "HUYENTRAM0109"
+},{
+  "_id": {
+    "$oid": "6362699a9e87477639b6a280"
+  },
+  "MATK_KH": "MATK_KH12",
+  "MAKH": "KH12",
+  "TENTK": "PHUONGQUYNH2508",
+  "MATKH": "PHUONGQUYNH2508"
+}]

@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "63993d4ad3e90c780057e23c"
+  },
+  "MANCC": "NCC01",
+  "TENNCC": "TRUNG TÂM SẢN XUẤT MÓC KHÓA"
+},{
+  "_id": {
+    "$oid": "63993da8d3e90c780057e23f"
+  },
+  "MANCC": "NCC02",
+  "TENNCC": "CÔNG TY MỐC KHÓC AN BÌNH"
+},{
+  "_id": {
+    "$oid": "63993dd9d3e90c780057e240"
+  },
+  "MANCC": "NCC03",
+  "TENNCC": "SẢN XUẤT MỐC KHÓA VYVY"
+},{
+  "_id": {
+    "$oid": "63993df6d3e90c780057e241"
+  },
+  "MANCC": "NCC04",
+  "TENNCC": "TIỆM GIA CÔNG MỐC KHÓA"
+},{
+  "_id": {
+    "$oid": "63993e0bd3e90c780057e242"
+  },
+  "MANCC": "NCC05",
+  "TENNCC": "MỐC KHÓA AN PHÚ"
+},{
+  "_id": {
+    "$oid": "63993e1dd3e90c780057e243"
+  },
+  "MANCC": "NCC06",
+  "TENNCC": "MỐC KHÓA DIỆP ANH"
+},{
+  "_id": {
+    "$oid": "63993e45d3e90c780057e244"
+  },
+  "MANCC": "NCC07",
+  "TENNCC": "GẤU BÔNG LÊ LỢI"
+},{
+  "_id": {
+    "$oid": "63993e62d3e90c780057e245"
+  },
+  "MANCC": "NCC08",
+  "TENNCC": "TRUNG TÂM SẢN XUẤT GẤU BÔNG"
+},{
+  "_id": {
+    "$oid": "63993e7cd3e90c780057e246"
+  },
+  "MANCC": "NCC09",
+  "TENNCC": "CÔNG TY DỆT MAY GẤU BÔNG"
+},{
+  "_id": {
+    "$oid": "63993e9dd3e90c780057e247"
+  },
+  "MANCC": "NCC10",
+  "TENNCC": "CỬA HÀNG CÁ CHÉP"
+},{
+  "_id": {
+    "$oid": "63993ebbd3e90c780057e248"
+  },
+  "MANCC": "NCC11",
+  "TENNCC": "GẤU BÔNG CHUỒN CHUỒN"
+},{
+  "_id": {
+    "$oid": "63993ed9d3e90c780057e249"
+  },
+  "MANCC": "NCC12",
+  "TENNCC": "GẤU BÔNG VIPPRO"
+}]

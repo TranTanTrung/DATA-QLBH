@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "63985a80234bdf0ba94cfb22"
+  },
+  "MANV": "NV07",
+  "TENNV": "Nguyễn Bảo Ngân",
+  "MACV": "CV4",
+  "DANTOC": "Tày",
+  "DIENTHOAI": "0848046245",
+  "EMAIL": "BaoNgan1310@gmail.com",
+  "LUONG": 15000000
+},{
+  "_id": {
+    "$oid": "63985b24234bdf0ba94cfb23"
+  },
+  "MANV": "NV08",
+  "TENNV": "Trần Văn Công",
+  "MACV": "CV1",
+  "DANTOC": "Kinh",
+  "DIENTHOAI": "0848124512",
+  "EMAIL": "VanCong1309@gmail.com",
+  "LUONG": 15000000
+}]

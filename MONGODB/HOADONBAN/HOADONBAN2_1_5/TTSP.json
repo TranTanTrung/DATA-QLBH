@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "63626bdc9e87477639b6a297"
+  },
+  "MATTSP": "NKD",
+  "TENTTSP": "NGƯNG KINH DOANH"
+},{
+  "_id": {
+    "$oid": "63626bed9e87477639b6a298"
+  },
+  "MATTSP": "CNH",
+  "TENTTSP": "CHƯA NHẬP HÀNG"
+},{
+  "_id": {
+    "$oid": "63626c059e87477639b6a299"
+  },
+  "MATTSP": "HH",
+  "TENTTSP": "HẾT HÀNG"
+},{
+  "_id": {
+    "$oid": "63626c1d9e87477639b6a29a"
+  },
+  "MATTSP": "DB",
+  "TENTTSP": "ÐANG BÁN"
+}]

@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "636263929e87477639b6a260"
+  },
+  "MAHANG": "MH01",
+  "TENHANG": "MÓC KHÓA PIKACHU",
+  "MACL": "NH",
+  "MANCC": "NCC01",
+  "MATTSP": "DB",
+  "SOLUONG": 10,
+  "DONGIANHAP": 20000,
+  "DONGIABAN": 35000,
+  "GHICHU": ""
+},{
+  "_id": {
+    "$oid": "6362646e9e87477639b6a261"
+  },
+  "MAHANG": "MH02",
+  "TENHANG": "MÓC KHÓA ẾCH KÌ DIỆU",
+  "MACL": "TT",
+  "MANCC": "NCC03",
+  "MATTSP": "HH",
+  "SOLUONG": 0,
+  "DONGIANHAP": 25000,
+  "DONGIABAN": 40000,
+  "GHICHU": ""
+},{
+  "_id": {
+    "$oid": "6362649b9e87477639b6a262"
+  },
+  "MAHANG": "MH03",
+  "TENHANG": "MÓC KHÓA KHỦNG LONG CON",
+  "MACL": "TT",
+  "MANCC": "NCC02",
+  "MATTSP": "CNH",
+  "SOLUONG": 0,
+  "DONGIANHAP": 25000,
+  "DONGIABAN": 37000,
+  "GHICHU": ""
+},{
+ 
+  "_id": {
+    "$oid": "6362654a9e87477639b6a267"
+  },
+  "MAHANG": "MH07",
+  "TENHANG": "MÓC KHÓA LUFFY",
+  "MACL": "NH",
+  "MANCC": "NCC01",
+  "MATTSP": "DB",
+  "SOLUONG": 23,
+  "DONGIANHAP": 27000,
+  "DONGIABAN": 46000,
+  "GHICHU": ""
+},{
+  "_id": {
+    "$oid": "636265719e87477639b6a268"
+  },
+  "MAHANG": "MH08",
+  "TENHANG": "MÓC KHÓA MINION",
+  "MACL": "V",
+  "MANCC": "NCC06",
+  "MATTSP": "DB",
+  "SOLUONG": 12,
+  "DONGIANHAP": 24000,
+  "DONGIABAN": 38000,
+  "GHICHU": ""
+},{
+  
+  "_id": {
+    "$oid": "63994bffe1b6873da07ac39d"
+  },
+  "MAHANG": "MH13",
+  "TENHANG": "MÓC KHÓA ZORO",
+  "MACL": "V",
+  "MANCC": "NCC01",
+  "MATTSP": "CNH",
+  "SOLUONG": 0,
+  "DONGIANHAP": 27000,
+  "DONGIABAN": 46000,
+  "GHICHU": ""
+},{
+  "_id": {
+    "$oid": "63994cdee1b6873da07ac39e"
+  },
+  "MAHANG": "MH14",
+  "TENHANG": "MÓC KHÓA NAMI",
+  "MACL": "V",
+  "MANCC": "NCC01",
+  "MATTSP": "CNH",
+  "SOLUONG": 0,
+  "DONGIANHAP": 27000,
+  "DONGIABAN": 46000,
+  "GHICHU": ""
+},{
+ 
+  "_id": {
+    "$oid": "6399505ee1b6873da07ac3a5"
+  },
+  "MAHANG": "MH20",
+  "TENHANG": "MÓC KHÓA SÚNG M24",
+  "MACL": "B",
+  "MANCC": "NCC05",
+  "MATTSP": "HH",
+  "SOLUONG": 0,
+  "DONGIANHAP": 25000,
+  "DONGIABAN": 30000,
+  "GHICHU": ""
+}]

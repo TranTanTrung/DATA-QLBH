@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "636263929e87477639b6a260"
+  },
+  "MAHANG": "MH01",
+  "TENHANG": "MÓC KHÓA PIKACHU",
+  "MACL": "NH",
+  "MANCC": "NCC01",
+  "MATTSP": "DB",
+  "SOLUONG": 10,
+  "DONGIANHAP": 20000,
+  "DONGIABAN": 35000,
+  "GHICHU": ""
+},{
+  "_id": {
+    "$oid": "6362646e9e87477639b6a261"
+  },
+  "MAHANG": "MH02",
+  "TENHANG": "MÓC KHÓA ẾCH KÌ DIỆU",
+  "MACL": "TT",
+  "MANCC": "NCC03",
+  "MATTSP": "HH",
+  "SOLUONG": 0,
+  "DONGIANHAP": 25000,
+  "DONGIABAN": 40000,
+  "GHICHU": ""
+},{
+  "_id": {
+    "$oid": "6362649b9e87477639b6a262"
+  },
+  "MAHANG": "MH03",
+  "TENHANG": "MÓC KHÓA KHỦNG LONG CON",
+  "MACL": "TT",
+  "MANCC": "NCC02",
+  "MATTSP": "CNH",
+  "SOLUONG": 0,
+  "DONGIANHAP": 25000,
+  "DONGIABAN": 37000,
+  "GHICHU": ""
+},{
+  
+  "_id": {
+    "$oid": "636265719e87477639b6a268"
+  },
+  "MAHANG": "MH08",
+  "TENHANG": "MÓC KHÓA MINION",
+  "MACL": "V",
+  "MANCC": "NCC06",
+  "MATTSP": "DB",
+  "SOLUONG": 12,
+  "DONGIANHAP": 24000,
+  "DONGIABAN": 38000,
+  "GHICHU": ""
+},{
+ 
+  "_id": {
+    "$oid": "63994d82e1b6873da07ac3a0"
+  },
+  "MAHANG": "MH16",
+  "TENHANG": "MÓC KHÓA PHI HÀNH GIA",
+  "MACL": "NH",
+  "MANCC": "NCC06",
+  "MATTSP": "CNH",
+  "SOLUONG": 6,
+  "DONGIANHAP": 10000,
+  "DONGIABAN": 15000,
+  "GHICHU": ""
+},{
+  "_id": {
+    "$oid": "63994de2e1b6873da07ac3a1"
+  },
+  "MAHANG": "MH17",
+  "TENHANG": "MÓC KHÓA GẤU DỄ THƯƠNG",
+  "MACL": "NH",
+  "MANCC": "NCC05",
+  "MATTSP": "HH",
+  "SOLUONG": 0,
+  "DONGIANHAP": 10000,
+  "DONGIABAN": 15000,
+  "GHICHU": ""
+},{
+  
+  "_id": {
+    "$oid": "63995005e1b6873da07ac3a4"
+  },
+  "MAHANG": "MH19",
+  "TENHANG": "MÓC KHÓA NHỰA",
+  "MACL": "NH",
+  "MANCC": "NCC05",
+  "MATTSP": "HH",
+  "SOLUONG": 0,
+  "DONGIANHAP": 10000,
+  "DONGIABAN": 15000,
+  "GHICHU": ""
+},{
+  "_id": {
+    "$oid": "6399505ee1b6873da07ac3a5"
+  },
+  "MAHANG": "MH20",
+  "TENHANG": "MÓC KHÓA SÚNG M24",
+  "MACL": "B",
+  "MANCC": "NCC05",
+  "MATTSP": "HH",
+  "SOLUONG": 0,
+  "DONGIANHAP": 25000,
+  "DONGIABAN": 30000,
+  "GHICHU": ""
+}]

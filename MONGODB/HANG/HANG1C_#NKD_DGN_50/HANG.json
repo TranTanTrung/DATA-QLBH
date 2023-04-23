@@ -1,0 +1,57 @@
+[{
+
+  "_id": {
+    "$oid": "6362652c9e87477639b6a266"
+  },
+  "MAHANG": "MH06",
+  "TENHANG": "GẤU BÔNG AMONG US",
+  "MACL": "V",
+  "MANCC": "NCC09",
+  "MATTSP": "DB",
+  "SOLUONG": 11,
+  "DONGIANHAP": 70000,
+  "DONGIABAN": 100000,
+  "GHICHU": ""
+},{
+
+  "_id": {
+    "$oid": "636265939e87477639b6a269"
+  },
+  "MAHANG": "MH09",
+  "TENHANG": "GẤU BÔNG CHIẾN BINH ANH SÁNG",
+  "MACL": "V",
+  "MANCC": "NCC12",
+  "MATTSP": "DB",
+  "SOLUONG": 6,
+  "DONGIANHAP": 70000,
+  "DONGIABAN": 90000,
+  "GHICHU": ""
+},{
+ 
+  "_id": {
+    "$oid": "636265e19e87477639b6a26b"
+  },
+  "MAHANG": "MH11",
+  "TENHANG": "MÓC KHÓA CHÚ TIỂU IKIU",
+  "MACL": "B",
+  "MANCC": "NCC05",
+  "MATTSP": "NKD",
+  "SOLUONG": 0,
+  "DONGIANHAP": 130000,
+  "DONGIABAN": 200000,
+  "GHICHU": ""
+},{
+  "_id": {
+    "$oid": "636266179e87477639b6a26c"
+  },
+  "MAHANG": "MH12",
+  "TENHANG": "GẤU BÔNG TRÁI DÂU",
+  "MACL": "V",
+  "MANCC": "NCC07",
+  "MATTSP": "DB",
+  "SOLUONG": 8,
+  "DONGIANHAP": 80000,
+  "DONGIABAN": 110000,
+  "GHICHU": ""
+}
+  ]

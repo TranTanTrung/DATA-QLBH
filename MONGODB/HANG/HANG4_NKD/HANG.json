@@ -1,0 +1,54 @@
+[{
+  
+  "_id": {
+    "$oid": "63995091e1b6873da07ac3a6"
+  },
+  "MAHANG": "MH21",
+  "TENHANG": "GẤU BÔNG DDORREAMON NHỎ",
+  "MACL": "V",
+  "MANCC": "NCC09",
+  "MATTSP": "NKD",
+  "SOLUONG": 5,
+  "DONGIANHAP": 30000,
+  "DONGIABAN": 50000,
+  "GHICHU": ""
+},{
+  "_id": {
+    "$oid": "639950d9e1b6873da07ac3a7"
+  },
+  "MAHANG": "MH22",
+  "TENHANG": "GẤU BÔNG PIKACHU NHỎ",
+  "MACL": "V",
+  "MANCC": "NCC09",
+  "MATTSP": "NKD",
+  "SOLUONG": 5,
+  "DONGIANHAP": 30000,
+  "DONGIABAN": 50000,
+  "GHICHU": ""
+},{
+  "_id": {
+    "$oid": "639950fae1b6873da07ac3a8"
+  },
+  "MAHANG": "MH23",
+  "TENHANG": "MÓC KHÓA VỊT CON",
+  "MACL": "NH",
+  "MANCC": "NCC06",
+  "MATTSP": "NKD",
+  "SOLUONG": 4,
+  "DONGIANHAP": 10000,
+  "DONGIABAN": 15000,
+  "GHICHU": ""
+},{
+  "_id": {
+    "$oid": "63995132e1b6873da07ac3a9"
+  },
+  "MAHANG": "MH24",
+  "TENHANG": "MÓC KHÓA HEO DỄ THƯƠNG",
+  "MACL": "NH",
+  "MANCC": "NCC05",
+  "MATTSP": "NKD",
+  "SOLUONG": 0,
+  "DONGIANHAP": 10000,
+  "DONGIABAN": 15000,
+  "GHICHU": ""
+}]

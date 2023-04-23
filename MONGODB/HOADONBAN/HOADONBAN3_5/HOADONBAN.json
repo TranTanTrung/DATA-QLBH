@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "636259b89e87477639b6a234"
+  },
+  "MAHD": "HD06",
+  "MANV": "NV03",
+  "MAKH": "KH06",
+  "TONGTIEN": 7200000,
+  "MATT": "HTTT_MM"
+},{
+  "_id": {
+    "$oid": "63625a919e87477639b6a237"
+  },
+  "MAHD": "HD09",
+  "MANV": "NV05",
+  "MAKH": "KH09",
+  "TONGTIEN": 18000000,
+  "MATT": "HTTT_TM"
+},{
+  "_id": {
+    "$oid": "63625b5f9e87477639b6a239"
+  },
+  "MAHD": "HD11",
+  "MANV": "NV06",
+  "MAKH": "KH11",
+  "TONGTIEN": 5400000,
+  "MATT": "HTTT_MM"
+},{
+  "_id": {
+    "$oid": "63625d449e87477639b6a23e"
+  },
+  "MAHD": "HD14",
+  "MANV": "NV02",
+  "MAKH": "KH02",
+  "TONGTIEN": 16900000,
+  "MATT": "HTTT_TS"
+},{
+  "_id": {
+    "$oid": "636260089e87477639b6a252"
+  },
+  "MAHD": "HD32",
+  "MANV": "NV04",
+  "MAKH": "KH08",
+  "TONGTIEN": 8320000,
+  "MATT": "HTTT_CK"
+}]

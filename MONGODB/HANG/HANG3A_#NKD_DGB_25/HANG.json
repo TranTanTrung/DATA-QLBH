@@ -1,0 +1,43 @@
+[{
+ 
+  "_id": {
+    "$oid": "63994d82e1b6873da07ac3a0"
+  },
+  "MAHANG": "MH16",
+  "TENHANG": "MÓC KHÓA PHI HÀNH GIA",
+  "MACL": "NH",
+  "MANCC": "NCC06",
+  "MATTSP": "CNH",
+  "SOLUONG": 6,
+  "DONGIANHAP": 10000,
+  "DONGIABAN": 15000,
+  "GHICHU": ""
+},{
+  "_id": {
+    "$oid": "63994de2e1b6873da07ac3a1"
+  },
+  "MAHANG": "MH17",
+  "TENHANG": "MÓC KHÓA GẤU DỄ THƯƠNG",
+  "MACL": "NH",
+  "MANCC": "NCC05",
+  "MATTSP": "HH",
+  "SOLUONG": 0,
+  "DONGIANHAP": 10000,
+  "DONGIABAN": 15000,
+  "GHICHU": ""
+},{
+
+  "_id": {
+    "$oid": "63995005e1b6873da07ac3a4"
+  },
+  "MAHANG": "MH19",
+  "TENHANG": "MÓC KHÓA NHỰA",
+  "MACL": "NH",
+  "MANCC": "NCC05",
+  "MATTSP": "HH",
+  "SOLUONG": 0,
+  "DONGIANHAP": 10000,
+  "DONGIABAN": 15000,
+  "GHICHU": ""
+}
+ ]

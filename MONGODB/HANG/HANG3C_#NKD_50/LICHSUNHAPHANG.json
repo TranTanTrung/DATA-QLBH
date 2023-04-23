@@ -1,0 +1,73 @@
+[{
+  
+  "_id": {
+    "$oid": "63626bc91f20e2388a0b0eb0"
+  },
+  "MALSNH": "MA_LSNH04",
+  "MAHANG": "MH04",
+  "TONKHO": 0,
+  "SOLUONGNHAP": 2100,
+  "TONGKHO": 2100,
+  "THOIGIAN": "2021-05-07"
+},{
+  "_id": {
+    "$oid": "63626bd01f20e2388a0b0eb1"
+  },
+  "MALSNH": "MA_LSNH05",
+  "MAHANG": "MH05",
+  "TONKHO": 0,
+  "SOLUONGNHAP": 2500,
+  "TONGKHO": 2500,
+  "THOIGIAN": "2021-05-30"
+},{
+  "_id": {
+    "$oid": "63626be11f20e2388a0b0eb2"
+  },
+  "MALSNH": "MA_LSNH06",
+  "MAHANG": "MH06",
+  "TONKHO": 0,
+  "SOLUONGNHAP": 1600,
+  "TONGKHO": 1600,
+  "THOIGIAN": "2021-05-30"
+},{
+ 
+  "_id": {
+    "$oid": "63626bf91f20e2388a0b0eb5"
+  },
+  "MALSNH": "MA_LSNH09",
+  "MAHANG": "MH09",
+  "TONKHO": 0,
+  "SOLUONGNHAP": 1500,
+  "TONGKHO": 1500,
+  "THOIGIAN": "2021-06-30"
+},{
+  "_id": {
+    "$oid": "63626c041f20e2388a0b0eb6"
+  },
+  "MALSNH": "MA_LSNH10",
+  "MAHANG": "MH10",
+  "TONKHO": 0,
+  "SOLUONGNHAP": 1000,
+  "TONGKHO": 1000,
+  "THOIGIAN": "2021-06-30"
+},{
+  "_id": {
+    "$oid": "63626c0b1f20e2388a0b0eb7"
+  },
+  "MALSNH": "MA_LSNH11",
+  "MAHANG": "MH11",
+  "TONKHO": 0,
+  "SOLUONGNHAP": 2000,
+  "TONGKHO": 2000,
+  "THOIGIAN": "2020-07-15"
+},{
+  "_id": {
+    "$oid": "63626c0f1f20e2388a0b0eb8"
+  },
+  "MALSNH": "MA_LSNH12",
+  "MAHANG": "MH12",
+  "TONKHO": 0,
+  "SOLUONGNHAP": 33500,
+  "TONGKHO": 33500,
+  "THOIGIAN": "2020-07-15"
+}]

@@ -1,0 +1,262 @@
+[{
+  "_id": {
+    "$oid": "6362588a9e87477639b6a230"
+  },
+  "MAHD": "HD02",
+  "MANV": "NV01",
+  "MAKH": "KH02",
+  "NGAYBAN": "21-09-23",
+  "MATT": "HTTT_CK"
+},{
+  "_id": {
+    "$oid": "6362593b9e87477639b6a232"
+  },
+  "MAHD": "HD04",
+  "MANV": "NV02",
+  "MAKH": "KH04",
+  "NGAYBAN": "2021-09-25",
+  "MATT": "HTTT_CK"
+},{
+  "_id": {
+    "$oid": "636259b89e87477639b6a234"
+  },
+  "MAHD": "HD06",
+  "MANV": "NV03",
+  "MAKH": "KH06",
+  "NGAYBAN": "2021-09-27",
+  "MATT": "HTTT_MM"
+},{
+  "_id": {
+    "$oid": "636259e99e87477639b6a235"
+  },
+  "MAHD": "HD07",
+  "MANV": "NV04",
+  "MAKH": "KH07",
+  "NGAYBAN": "2022-01-22",
+  "MATT": "HTTT_MM"
+},{
+  "_id": {
+    "$oid": "63625a129e87477639b6a236"
+  },
+  "MAHD": "HD08",
+  "MANV": "NV04",
+  "MAKH": "KH08",
+  "NGAYBAN": "2022-01-22",
+  "MATT": "HTTT_TS"
+},{
+  "_id": {
+    "$oid": "63625b5f9e87477639b6a239"
+  },
+  "MAHD": "HD11",
+  "MANV": "NV06",
+  "MAKH": "KH11",
+  "NGAYBAN": "2022-01-22",
+  "MATT": "HTTT_MM"
+},{
+  "_id": {
+    "$oid": "63625b919e87477639b6a23a"
+  },
+  "MAHD": "HD12",
+  "MANV": "NV06",
+  "MAKH": "KH12",
+  "NGAYBAN": "2022-01-22",
+  "MATT": "HTTT_MM"
+},{
+  "_id": {
+    "$oid": "63625c119e87477639b6a23c"
+  },
+  "MAHD": "HD13",
+  "MANV": "NV04",
+  "MAKH": "KH09",
+  "NGAYBAN": "2022-01-22",
+  "MATT": "HTTT_TGN"
+},{
+  "_id": {
+    "$oid": "63625d449e87477639b6a23e"
+  },
+  "MAHD": "HD14",
+  "MANV": "NV02",
+  "MAKH": "KH02",
+  "NGAYBAN": "2022-01-22",
+  "MATT": "HTTT_TS"
+},{
+  "_id": {
+    "$oid": "63625dcf9e87477639b6a242"
+  },
+  "MAHD": "HD17",
+  "MANV": "NV03",
+  "MAKH": "KH06",
+  "NGAYBAN": "2022-01-26",
+  "MATT": "HTTT_CK"
+},{
+  "_id": {
+    "$oid": "63625ded9e87477639b6a243"
+  },
+  "MAHD": "HD18",
+  "MANV": "NV04",
+  "MAKH": "KH07",
+  "NGAYBAN": "2022-02-10",
+  "MATT": "HTTT_TGN"
+},{
+  "_id": {
+    "$oid": "63625e0e9e87477639b6a244"
+  },
+  "MAHD": "HD19",
+  "MANV": "NV04",
+  "MAKH": "KH08",
+  "NGAYBAN": "2022-02-18",
+  "MATT": "HTTT_MM"
+},{
+  "_id": {
+    "$oid": "63625e309e87477639b6a245"
+  },
+  "MAHD": "HD20",
+  "MANV": "NV05",
+  "MAKH": "KH09",
+  "NGAYBAN": "2022-01-28",
+  "MATT": "HTTT_CK"
+},{
+  "_id": {
+    "$oid": "63625e869e87477639b6a247"
+  },
+  "MAHD": "HD22",
+  "MANV": "NV06",
+  "MAKH": "KH12",
+  "NGAYBAN": "2022-03-21",
+  "MATT": "HTTT_MM"
+},{
+  "_id": {
+    "$oid": "63625ea59e87477639b6a248"
+  },
+  "MAHD": "HD23",
+  "MANV": "NV01",
+  "MAKH": "KH01",
+  "NGAYBAN": "2022-04-08",
+  "MATT": "HTTT_TS"
+},{
+  "_id": {
+    "$oid": "63625ec29e87477639b6a249"
+  },
+  "MAHD": "HD24",
+  "MANV": "NV01",
+  "MAKH": "KH02",
+  "NGAYBAN": "2022-04-19",
+  "MATT": "HTTT_MM"
+},{
+  "_id": {
+    "$oid": "63625ee99e87477639b6a24a"
+  },
+  "MAHD": "HD25",
+  "MANV": "NV02",
+  "MAKH": "KH12",
+  "NGAYBAN": "2022-04-30",
+  "MATT": "HTTT_TS"
+},{
+  "_id": {
+    "$oid": "63625f0b9e87477639b6a24b"
+  },
+  "MAHD": "HD26",
+  "MANV": "NV02",
+  "MAKH": "KH04",
+  "NGAYBAN": "2022-08-16",
+  "MATT": "HTTT_TGN"
+},{
+  "_id": {
+    "$oid": "63625f509e87477639b6a24d"
+  },
+  "MAHD": "HD28",
+  "MANV": "NV05",
+  "MAKH": "KH09",
+  "NGAYBAN": "2022-08-22",
+  "MATT": "HTTT_CK"
+},{
+  "_id": {
+    "$oid": "63625f7e9e87477639b6a24e"
+  },
+  "MAHD": "HD29",
+  "MANV": "NV05",
+  "MAKH": "KH12",
+  "NGAYBAN": "2022-07-22",
+  "MATT": "HTTT_MM"
+},{
+  "_id": {
+    "$oid": "63625fa09e87477639b6a24f"
+  },
+  "MAHD": "HD30",
+  "MANV": "NV06",
+  "MAKH": "KH11",
+  "NGAYBAN": "2022-06-11",
+  "MATT": "HTTT_CK"
+},{
+  "_id": {
+    "$oid": "636260089e87477639b6a252"
+  },
+  "MAHD": "HD32",
+  "MANV": "NV04",
+  "MAKH": "KH08",
+  "NGAYBAN": "2022-06-12",
+  "MATT": "HTTT_CK"
+},{
+  "_id": {
+    "$oid": "636260449e87477639b6a254"
+  },
+  "MAHD": "HD34",
+  "MANV": "NV01",
+  "MAKH": "KH01",
+  "NGAYBAN": "2022-09-12",
+  "MATT": "HTTT_MM"
+},{
+  "_id": {
+    "$oid": "636260b29e87477639b6a256"
+  },
+  "MAHD": "HD36",
+  "MANV": "NV03",
+  "MAKH": "KH04",
+  "NGAYBAN": "2022-08-08",
+  "MATT": "HTTT_MM"
+},{
+  "_id": {
+    "$oid": "636260ee9e87477639b6a257"
+  },
+  "MAHD": "HD37",
+  "MANV": "NV03",
+  "MAKH": "KH09",
+  "NGAYBAN": "2022-07-03",
+  "MATT": "HTTT_CK"
+},{
+  "_id": {
+    "$oid": "636261369e87477639b6a259"
+  },
+  "MAHD": "HD39",
+  "MANV": "NV04",
+  "MAKH": "KH09",
+  "NGAYBAN": "2022-06-21",
+  "MATT": "HTTT_CK"
+},{
+  "_id": {
+    "$oid": "6362615c9e87477639b6a25a"
+  },
+  "MAHD": "HD40",
+  "MANV": "NV05",
+  "MAKH": "KH09",
+  "NGAYBAN": "2022-09-23",
+  "MATT": "HTTT_TGN"
+},{
+  "_id": {
+    "$oid": "636261899e87477639b6a25b"
+  },
+  "MAHD": "HD41",
+  "MANV": "NV05",
+  "MAKH": "KH09",
+  "NGAYBAN": "2022-08-11",
+  "MATT": "HTTT_MM"
+},{
+  "_id": {
+    "$oid": "636261d19e87477639b6a25d"
+  },
+  "MAHD": "HD43",
+  "MANV": "NV06",
+  "MAKH": "KH11",
+  "NGAYBAN": "2022-05-30",
+  "MATT": "HTTT_CK"
+}]

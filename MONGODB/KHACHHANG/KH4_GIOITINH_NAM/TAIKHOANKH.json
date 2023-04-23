@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "636267e89e87477639b6a273"
+  },
+  "MATK_KH": "MATK_KH01",
+  "MAKH": "KH01",
+  "TENTK": "THAINGUYEN1106",
+  "MATKH": "THAINGUYEN1106"
+},{
+  "_id": {
+    "$oid": "6362690c9e87477639b6a274"
+  },
+  "MATK_KH": "MATK_KH02",
+  "MAKH": "KH02",
+  "TENTK": "VANDUC21",
+  "MATKH": "N'VANDUC21"
+},{
+  "_id": {
+    "$oid": "6362691f9e87477639b6a276"
+  },
+  "MATK_KH": "MATK_KH03",
+  "MAKH": "KH03",
+  "TENTK": "VANTOAN1208",
+  "MATKH": "VANTOAN1208"
+},{
+  "_id": {
+    "$oid": "636269329e87477639b6a277"
+  },
+  "MATK_KH": "MATK_KH04",
+  "MAKH": "KH04",
+  "TENTK": "TANTRUNG2203",
+  "MATKH": "TANTRUNG2203"
+},{
+  "_id": {
+    "$oid": "6362693c9e87477639b6a278"
+  },
+  "MATK_KH": "MATK_KH05",
+  "MAKH": "KH05",
+  "TENTK": "DENNITRAN19",
+  "MATKH": "DENNITRAN19"
+},{
+  "_id": {
+    "$oid": "636269519e87477639b6a27a"
+  },
+  "MATK_KH": "MATK_KH07",
+  "MAKH": "KH07",
+  "TENTK": "DUYKHANH0309",
+  "MATKH": "DUYKHANH0309"
+},{
+  "_id": {
+    "$oid": "636269689e87477639b6a27d"
+  },
+  "MATK_KH": "MATK_KH10",
+  "MAKH": "KH10",
+  "TENTK": "CONGMINH1010",
+  "MATKH": "CONGMINH1010"
+}]

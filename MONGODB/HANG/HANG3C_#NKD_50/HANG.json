@@ -1,0 +1,122 @@
+[{
+  
+  "_id": {
+    "$oid": "636264db9e87477639b6a264"
+  },
+  "MAHANG": "MH04",
+  "TENHANG": "GẤU BÔNG DORAEMON",
+  "MACL": "V",
+  "MANCC": "NCC09",
+  "MATTSP": "DB",
+  "SOLUONG": 20,
+  "DONGIANHAP": 50000,
+  "DONGIABAN": 80000,
+  "GHICHU": ""
+},{
+  "_id": {
+    "$oid": "636265059e87477639b6a265"
+  },
+  "MAHANG": "MH05",
+  "TENHANG": "GẤU BÔNG POKEMON CON SÂU",
+  "MACL": "V",
+  "MANCC": "NCC09",
+  "MATTSP": "DB",
+  "SOLUONG": 14,
+  "DONGIANHAP": 45000,
+  "DONGIABAN": 70000,
+  "GHICHU": ""
+},{
+  "_id": {
+    "$oid": "6362652c9e87477639b6a266"
+  },
+  "MAHANG": "MH06",
+  "TENHANG": "GẤU BÔNG AMONG US",
+  "MACL": "V",
+  "MANCC": "NCC09",
+  "MATTSP": "DB",
+  "SOLUONG": 11,
+  "DONGIANHAP": 70000,
+  "DONGIABAN": 100000,
+  "GHICHU": ""
+},{
+ 
+  "_id": {
+    "$oid": "636265939e87477639b6a269"
+  },
+  "MAHANG": "MH09",
+  "TENHANG": "GẤU BÔNG CHIẾN BINH ANH SÁNG",
+  "MACL": "V",
+  "MANCC": "NCC12",
+  "MATTSP": "DB",
+  "SOLUONG": 6,
+  "DONGIANHAP": 70000,
+  "DONGIABAN": 90000,
+  "GHICHU": ""
+},{
+  "_id": {
+    "$oid": "636265c29e87477639b6a26a"
+  },
+  "MAHANG": "MH10",
+  "TENHANG": "MÓC KHÓA JADIT",
+  "MACL": "TT",
+  "MANCC": "NCC05",
+  "MATTSP": "DB",
+  "SOLUONG": 17,
+  "DONGIANHAP": 34000,
+  "DONGIABAN": 59000,
+  "GHICHU": ""
+},{
+  "_id": {
+    "$oid": "636265e19e87477639b6a26b"
+  },
+  "MAHANG": "MH11",
+  "TENHANG": "MÓC KHÓA CHÚ TIỂU IKIU",
+  "MACL": "B",
+  "MANCC": "NCC05",
+  "MATTSP": "NKD",
+  "SOLUONG": 0,
+  "DONGIANHAP": 130000,
+  "DONGIABAN": 200000,
+  "GHICHU": ""
+},{
+  "_id": {
+    "$oid": "636266179e87477639b6a26c"
+  },
+  "MAHANG": "MH12",
+  "TENHANG": "GẤU BÔNG TRÁI DÂU",
+  "MACL": "V",
+  "MANCC": "NCC07",
+  "MATTSP": "DB",
+  "SOLUONG": 8,
+  "DONGIANHAP": 80000,
+  "DONGIABAN": 110000,
+  "GHICHU": ""
+},{
+  
+  "_id": {
+    "$oid": "63994d35e1b6873da07ac39f"
+  },
+  "MAHANG": "MH15",
+  "TENHANG": "GẤU BÔNG NOBITA",
+  "MACL": "V",
+  "MANCC": "NCC09",
+  "MATTSP": "CNH",
+  "SOLUONG": 5,
+  "DONGIANHAP": 50000,
+  "DONGIABAN": 80000,
+  "GHICHU": ""
+},{
+ 
+  "_id": {
+    "$oid": "63994e12e1b6873da07ac3a2"
+  },
+  "MAHANG": "MH18",
+  "TENHANG": "GẤU BÔNG HELLO KITTY",
+  "MACL": "V",
+  "MANCC": "NCC08",
+  "MATTSP": "HH",
+  "SOLUONG": 0,
+  "DONGIANHAP": 50000,
+  "DONGIABAN": 80000,
+  "GHICHU": ""
+}]

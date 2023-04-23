@@ -1,0 +1,313 @@
+[{
+  "_id": {
+    "$oid": "636263929e87477639b6a260"
+  },
+  "MAHANG": "MH01",
+  "TENHANG": "MÓC KHÓA PIKACHU",
+  "MACL": "NH",
+  "MANCC": "NCC01",
+  "MATTSP": "DB",
+  "SOLUONG": 10,
+  "DONGIANHAP": 20000,
+  "DONGIABAN": 35000,
+  "GHICHU": ""
+},{
+  "_id": {
+    "$oid": "6362646e9e87477639b6a261"
+  },
+  "MAHANG": "MH02",
+  "TENHANG": "MÓC KHÓA ẾCH KÌ DIỆU",
+  "MACL": "TT",
+  "MANCC": "NCC03",
+  "MATTSP": "HH",
+  "SOLUONG": 0,
+  "DONGIANHAP": 25000,
+  "DONGIABAN": 40000,
+  "GHICHU": ""
+},{
+  "_id": {
+    "$oid": "6362649b9e87477639b6a262"
+  },
+  "MAHANG": "MH03",
+  "TENHANG": "MÓC KHÓA KHỦNG LONG CON",
+  "MACL": "TT",
+  "MANCC": "NCC02",
+  "MATTSP": "CNH",
+  "SOLUONG": 0,
+  "DONGIANHAP": 25000,
+  "DONGIABAN": 37000,
+  "GHICHU": ""
+},{
+  "_id": {
+    "$oid": "636264db9e87477639b6a264"
+  },
+  "MAHANG": "MH04",
+  "TENHANG": "GẤU BÔNG DORAEMON",
+  "MACL": "V",
+  "MANCC": "NCC09",
+  "MATTSP": "DB",
+  "SOLUONG": 20,
+  "DONGIANHAP": 50000,
+  "DONGIABAN": 80000,
+  "GHICHU": ""
+},{
+  "_id": {
+    "$oid": "636265059e87477639b6a265"
+  },
+  "MAHANG": "MH05",
+  "TENHANG": "GẤU BÔNG POKEMON CON SÂU",
+  "MACL": "V",
+  "MANCC": "NCC09",
+  "MATTSP": "DB",
+  "SOLUONG": 14,
+  "DONGIANHAP": 45000,
+  "DONGIABAN": 70000,
+  "GHICHU": ""
+},{
+  "_id": {
+    "$oid": "6362652c9e87477639b6a266"
+  },
+  "MAHANG": "MH06",
+  "TENHANG": "GẤU BÔNG AMONG US",
+  "MACL": "V",
+  "MANCC": "NCC09",
+  "MATTSP": "DB",
+  "SOLUONG": 11,
+  "DONGIANHAP": 70000,
+  "DONGIABAN": 100000,
+  "GHICHU": ""
+},{
+  "_id": {
+    "$oid": "6362654a9e87477639b6a267"
+  },
+  "MAHANG": "MH07",
+  "TENHANG": "MÓC KHÓA LUFFY",
+  "MACL": "NH",
+  "MANCC": "NCC01",
+  "MATTSP": "DB",
+  "SOLUONG": 23,
+  "DONGIANHAP": 27000,
+  "DONGIABAN": 46000,
+  "GHICHU": ""
+},{
+  "_id": {
+    "$oid": "636265719e87477639b6a268"
+  },
+  "MAHANG": "MH08",
+  "TENHANG": "MÓC KHÓA MINION",
+  "MACL": "V",
+  "MANCC": "NCC06",
+  "MATTSP": "DB",
+  "SOLUONG": 12,
+  "DONGIANHAP": 24000,
+  "DONGIABAN": 38000,
+  "GHICHU": ""
+},{
+  "_id": {
+    "$oid": "636265939e87477639b6a269"
+  },
+  "MAHANG": "MH09",
+  "TENHANG": "GẤU BÔNG CHIẾN BINH ANH SÁNG",
+  "MACL": "V",
+  "MANCC": "NCC12",
+  "MATTSP": "DB",
+  "SOLUONG": 6,
+  "DONGIANHAP": 70000,
+  "DONGIABAN": 90000,
+  "GHICHU": ""
+},{
+  "_id": {
+    "$oid": "636265c29e87477639b6a26a"
+  },
+  "MAHANG": "MH10",
+  "TENHANG": "MÓC KHÓA JADIT",
+  "MACL": "TT",
+  "MANCC": "NCC05",
+  "MATTSP": "DB",
+  "SOLUONG": 17,
+  "DONGIANHAP": 34000,
+  "DONGIABAN": 59000,
+  "GHICHU": ""
+},{
+  "_id": {
+    "$oid": "636265e19e87477639b6a26b"
+  },
+  "MAHANG": "MH11",
+  "TENHANG": "MÓC KHÓA CHÚ TIỂU IKIU",
+  "MACL": "B",
+  "MANCC": "NCC05",
+  "MATTSP": "NKD",
+  "SOLUONG": 0,
+  "DONGIANHAP": 130000,
+  "DONGIABAN": 200000,
+  "GHICHU": ""
+},{
+  "_id": {
+    "$oid": "636266179e87477639b6a26c"
+  },
+  "MAHANG": "MH12",
+  "TENHANG": "GẤU BÔNG TRÁI DÂU",
+  "MACL": "V",
+  "MANCC": "NCC07",
+  "MATTSP": "DB",
+  "SOLUONG": 8,
+  "DONGIANHAP": 80000,
+  "DONGIABAN": 110000,
+  "GHICHU": ""
+},{
+  "_id": {
+    "$oid": "63994bffe1b6873da07ac39d"
+  },
+  "MAHANG": "MH13",
+  "TENHANG": "MÓC KHÓA ZORO",
+  "MACL": "V",
+  "MANCC": "NCC01",
+  "MATTSP": "CNH",
+  "SOLUONG": 0,
+  "DONGIANHAP": 27000,
+  "DONGIABAN": 46000,
+  "GHICHU": ""
+},{
+  "_id": {
+    "$oid": "63994cdee1b6873da07ac39e"
+  },
+  "MAHANG": "MH14",
+  "TENHANG": "MÓC KHÓA NAMI",
+  "MACL": "V",
+  "MANCC": "NCC01",
+  "MATTSP": "CNH",
+  "SOLUONG": 0,
+  "DONGIANHAP": 27000,
+  "DONGIABAN": 46000,
+  "GHICHU": ""
+},{
+  "_id": {
+    "$oid": "63994d35e1b6873da07ac39f"
+  },
+  "MAHANG": "MH15",
+  "TENHANG": "GẤU BÔNG NOBITA",
+  "MACL": "V",
+  "MANCC": "NCC09",
+  "MATTSP": "CNH",
+  "SOLUONG": 5,
+  "DONGIANHAP": 50000,
+  "DONGIABAN": 80000,
+  "GHICHU": ""
+},{
+  "_id": {
+    "$oid": "63994d82e1b6873da07ac3a0"
+  },
+  "MAHANG": "MH16",
+  "TENHANG": "MÓC KHÓA PHI HÀNH GIA",
+  "MACL": "NH",
+  "MANCC": "NCC06",
+  "MATTSP": "CNH",
+  "SOLUONG": 6,
+  "DONGIANHAP": 10000,
+  "DONGIABAN": 15000,
+  "GHICHU": ""
+},{
+  "_id": {
+    "$oid": "63994de2e1b6873da07ac3a1"
+  },
+  "MAHANG": "MH17",
+  "TENHANG": "MÓC KHÓA GẤU DỄ THƯƠNG",
+  "MACL": "NH",
+  "MANCC": "NCC05",
+  "MATTSP": "HH",
+  "SOLUONG": 0,
+  "DONGIANHAP": 10000,
+  "DONGIABAN": 15000,
+  "GHICHU": ""
+},{
+  "_id": {
+    "$oid": "63994e12e1b6873da07ac3a2"
+  },
+  "MAHANG": "MH18",
+  "TENHANG": "GẤU BÔNG HELLO KITTY",
+  "MACL": "V",
+  "MANCC": "NCC08",
+  "MATTSP": "HH",
+  "SOLUONG": 0,
+  "DONGIANHAP": 50000,
+  "DONGIABAN": 80000,
+  "GHICHU": ""
+},{
+  "_id": {
+    "$oid": "63995005e1b6873da07ac3a4"
+  },
+  "MAHANG": "MH19",
+  "TENHANG": "MÓC KHÓA NHỰA",
+  "MACL": "NH",
+  "MANCC": "NCC05",
+  "MATTSP": "HH",
+  "SOLUONG": 0,
+  "DONGIANHAP": 10000,
+  "DONGIABAN": 15000,
+  "GHICHU": ""
+},{
+  "_id": {
+    "$oid": "6399505ee1b6873da07ac3a5"
+  },
+  "MAHANG": "MH20",
+  "TENHANG": "MÓC KHÓA SÚNG M24",
+  "MACL": "B",
+  "MANCC": "NCC05",
+  "MATTSP": "HH",
+  "SOLUONG": 0,
+  "DONGIANHAP": 25000,
+  "DONGIABAN": 30000,
+  "GHICHU": ""
+},{
+  "_id": {
+    "$oid": "63995091e1b6873da07ac3a6"
+  },
+  "MAHANG": "MH21",
+  "TENHANG": "GẤU BÔNG DDORREAMON NHỎ",
+  "MACL": "V",
+  "MANCC": "NCC09",
+  "MATTSP": "NKD",
+  "SOLUONG": 5,
+  "DONGIANHAP": 30000,
+  "DONGIABAN": 50000,
+  "GHICHU": ""
+},{
+  "_id": {
+    "$oid": "639950d9e1b6873da07ac3a7"
+  },
+  "MAHANG": "MH22",
+  "TENHANG": "GẤU BÔNG PIKACHU NHỎ",
+  "MACL": "V",
+  "MANCC": "NCC09",
+  "MATTSP": "NKD",
+  "SOLUONG": 5,
+  "DONGIANHAP": 30000,
+  "DONGIABAN": 50000,
+  "GHICHU": ""
+},{
+  "_id": {
+    "$oid": "639950fae1b6873da07ac3a8"
+  },
+  "MAHANG": "MH23",
+  "TENHANG": "MÓC KHÓA VỊT CON",
+  "MACL": "NH",
+  "MANCC": "NCC06",
+  "MATTSP": "NKD",
+  "SOLUONG": 4,
+  "DONGIANHAP": 10000,
+  "DONGIABAN": 15000,
+  "GHICHU": ""
+},{
+  "_id": {
+    "$oid": "63995132e1b6873da07ac3a9"
+  },
+  "MAHANG": "MH24",
+  "TENHANG": "MÓC KHÓA HEO DỄ THƯƠNG",
+  "MACL": "NH",
+  "MANCC": "NCC05",
+  "MATTSP": "NKD",
+  "SOLUONG": 0,
+  "DONGIANHAP": 10000,
+  "DONGIABAN": 15000,
+  "GHICHU": ""
+}]

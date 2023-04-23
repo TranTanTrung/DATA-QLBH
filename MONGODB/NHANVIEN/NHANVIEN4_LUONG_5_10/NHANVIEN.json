@@ -1,0 +1,89 @@
+[{
+  "_id": {
+    "$oid": "63626e1b9e87477639b6a2b3"
+  },
+  "MANV": "NV01",
+  "TENNV": "Phạm Nguyệt Anh",
+  "MACV": "CV2",
+  "DANTOC": "Kinh",
+  "DIENTHOAI": "0967567876",
+  "EMAIL": "NguyetAn1105@gmail.com",
+  "LUONG": 5500000
+},{
+  "_id": {
+    "$oid": "63626e7a9e87477639b6a2b4"
+  },
+  "MANV": "NV02",
+  "TENNV": "Nguyễn Minh Huy",
+  "MACV": "CV2",
+  "DANTOC": "Khơ-Me",
+  "DIENTHOAI": "0876231456",
+  "EMAIL": "MinhHuy2302@gmail.com",
+  "LUONG": 6000000
+},{
+  "_id": {
+    "$oid": "63626efe9e87477639b6a2b6"
+  },
+  "MANV": "NV03",
+  "TENNV": "Phạm Quang Dự",
+  "MACV": "CV2",
+  "DANTOC": "Hoa",
+  "DIENTHOAI": "0678987678",
+  "EMAIL": "QuangDu0101@gmail.com",
+  "LUONG": 6500000
+},{
+  "_id": {
+    "$oid": "63626f429e87477639b6a2b7"
+  },
+  "MANV": "NV04",
+  "TENNV": "Nguyễn Khánh Duy",
+  "MACV": "CV2",
+  "DANTOC": "Kinh",
+  "DIENTHOAI": "0915200360",
+  "EMAIL": "KhanhDuy08062003@gmail.com",
+  "LUONG": 8000000
+},{
+  "_id": {
+    "$oid": "63626f829e87477639b6a2b8"
+  },
+  "MANV": "NV05",
+  "TENNV": "Phước Công Nguyên",
+  "MACV": "CV2",
+  "DANTOC": "Kinh",
+  "DIENTHOAI": "0915200360",
+  "EMAIL": "CongNguyen0108@gmail.com",
+  "LUONG": 7000000
+},{
+  "_id": {
+    "$oid": "636270229e87477639b6a2ba"
+  },
+  "MANV": "NV06",
+  "TENNV": "Phạm Trương Gia Hân",
+  "MACV": "CV2",
+  "DANTOC": "Khơ-Me",
+  "DIENTHOAI": "0848046390",
+  "EMAIL": "GiaHan1309@gmail.com",
+  "LUONG": 5500000
+},{
+  "_id": {
+    "$oid": "63985be4234bdf0ba94cfb24"
+  },
+  "MANV": "NV09",
+  "TENNV": "Đoàn Văn Tú",
+  "MACV": "CV3",
+  "DANTOC": "Kinh",
+  "DIENTHOAI": "08480465484",
+  "EMAIL": "VanTu1010@gmail.com",
+  "LUONG": 6500000
+},{
+  "_id": {
+    "$oid": "63985c4b234bdf0ba94cfb25"
+  },
+  "MANV": "NV10",
+  "TENNV": "Phan Thị Diễm",
+  "MACV": "CV3",
+  "DANTOC": "Khơ-me",
+  "DIENTHOAI": "08480464564",
+  "EMAIL": "ThiDiem0128@gmail.com",
+  "LUONG": 6000000
+}]

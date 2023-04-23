@@ -1,0 +1,127 @@
+[{
+  "_id": {
+    "$oid": "636256569e87477639b6a22e"
+  },
+  "MAHD": "HD01",
+  "MANV": "NV01",
+  "MAKH": "KH01",
+  "NGAYBAN": "21-09-22",
+  "MATT": "HTTT_TM"
+},{
+  "_id": {
+    "$oid": "636258f09e87477639b6a231"
+  },
+  "MAHD": "HD03",
+  "MANV": "NV02",
+  "MAKH": "KH03",
+  "NGAYBAN": "2021-09-24",
+  "MATT": "HTTT_TM"
+},{
+  "_id": {
+    "$oid": "6362598e9e87477639b6a233"
+  },
+  "MAHD": "HD05",
+  "MANV": "NV03",
+  "MAKH": "KH05",
+  "NGAYBAN": "2021-09-26",
+  "MATT": "HTTT_TM"
+},{
+  "_id": {
+    "$oid": "63625a919e87477639b6a237"
+  },
+  "MAHD": "HD09",
+  "MANV": "NV05",
+  "MAKH": "KH09",
+  "NGAYBAN": "2022-01-22",
+  "MATT": "HTTT_TM"
+},{
+  "_id": {
+    "$oid": "63625aba9e87477639b6a238"
+  },
+  "MAHD": "HD10",
+  "MANV": "NV05",
+  "MAKH": "KH10",
+  "NGAYBAN": "2022-01-22",
+  "MATT": "HTTT_TM"
+},{
+  "_id": {
+    "$oid": "63625d6c9e87477639b6a23f"
+  },
+  "MAHD": "HD15",
+  "MANV": "NV03",
+  "MAKH": "KH03",
+  "NGAYBAN": "2022-01-03",
+  "MATT": "HTTT_TM"
+},{
+  "_id": {
+    "$oid": "63625d9b9e87477639b6a240"
+  },
+  "MAHD": "HD16",
+  "MANV": "NV02",
+  "MAKH": "KH04",
+  "NGAYBAN": "2022-01-15",
+  "MATT": "HTTT_TM"
+},{
+  "_id": {
+    "$oid": "63625e549e87477639b6a246"
+  },
+  "MAHD": "HD21",
+  "MANV": "NV06",
+  "MAKH": "KH11",
+  "NGAYBAN": "2022-03-08",
+  "MATT": "HTTT_TM"
+},{
+  "_id": {
+    "$oid": "63625f2c9e87477639b6a24c"
+  },
+  "MAHD": "HD27",
+  "MANV": "NV04",
+  "MAKH": "KH08",
+  "NGAYBAN": "2022-09-19",
+  "MATT": "HTTT_TM"
+},{
+  "_id": {
+    "$oid": "63625fe69e87477639b6a251"
+  },
+  "MAHD": "HD31",
+  "MANV": "NV06",
+  "MAKH": "KH12",
+  "NGAYBAN": "2022-06-27",
+  "MATT": "HTTT_TM"
+},{
+  "_id": {
+    "$oid": "636260269e87477639b6a253"
+  },
+  "MAHD": "HD33",
+  "MANV": "NV04",
+  "MAKH": "KH08",
+  "NGAYBAN": "2022-07-29",
+  "MATT": "HTTT_TM"
+},{
+  "_id": {
+    "$oid": "636260649e87477639b6a255"
+  },
+  "MAHD": "HD35",
+  "MANV": "NV02",
+  "MAKH": "KH04",
+  "NGAYBAN": "2022-09-22",
+  "MATT": "HTTT_TM"
+},{
+  "_id": {
+    "$oid": "636261129e87477639b6a258"
+  },
+  "MAHD": "HD38",
+  "MANV": "NV04",
+  "MAKH": "KH09",
+  "NGAYBAN": "2022-09-04",
+  "MATT": "HTTT_TM"
+},{
+  "_id": {
+    "$oid": "636261ae9e87477639b6a25c"
+  },
+  "MAHD": "HD42",
+  "MANV": "NV06",
+  "MAKH": "KH09",
+  "NGAYBAN": "2022-06-22",
+  "MATT": "HTTT_TM"
+}]

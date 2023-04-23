@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "6363606e4f049de5d1071f19"
+  },
+  "MAKH": "KH01",
+  "TENKH": "Trần Thái Nguyên",
+  "GIOITINH": "Nam",
+  "DIACHI": "266 Tô Hiến Thành, Phường 15, Quận 10, Thành phố Hồ Chí Minh",
+  "DIENTHOAI": "0945373250"
+},{
+  "_id": {
+    "$oid": "636360864f049de5d1071f1a"
+  },
+  "MAKH": "KH02",
+  "TENKH": "Đoàn Văn Đức",
+  "GIOITINH": "Nam",
+  "DIACHI": "51 Thành Thái, Phường 16, Quận 10, Thành phố Hồ Chí Minh",
+  "DIENTHOAI": "0349633678"
+},{
+  "_id": {
+    "$oid": "6363608f4f049de5d1071f1b"
+  },
+  "MAKH": "KH03",
+  "TENKH": "Nguyễn Văn Toàn",
+  "GIOITINH": "Nam",
+  "DIACHI": "21 Nguyễn Thị Thực, Phường 2, Quận 3",
+  "DIENTHOAI": "0909365872"
+},{
+  "_id": {
+    "$oid": "6363609c4f049de5d1071f1c"
+  },
+  "MAKH": "KH04",
+  "TENKH": "Trần Tấn Trung",
+  "GIOITINH": "Nam",
+  "DIACHI": "25/3C xã Bà Điểm, huyện Hóc Môn",
+  "DIENTHOAI": "0789654342"
+},{
+  "_id": {
+    "$oid": "636360a54f049de5d1071f1d"
+  },
+  "MAKH": "KH05",
+  "TENKH": "Denni Trần",
+  "GIOITINH": "Nam",
+  "DIACHI": "20/5A xã Nghĩa Lạc, huyện Nghĩa Hưng, tỉnh Nam Định",
+  "DIENTHOAI": "0987675657"
+},{
+  "_id": {
+    "$oid": "636360b54f049de5d1071f1f"
+  },
+  "MAKH": "KH07",
+  "TENKH": "Trương Duy Khanh",
+  "GIOITINH": "Nam",
+  "DIACHI": "Đường Nguyễn Văn Linh, Phường An Khánh, Quận Ninh Kiều, Cần Thơ",
+  "DIENTHOAI": "0364494988"
+},{
+  "_id": {
+    "$oid": "636360de4f049de5d1071f22"
+  },
+  "MAKH": "KH10",
+  "TENKH": "Trần Công Minh",
+  "GIOITINH": "Nam",
+  "DIACHI": "Dương Bá Tràng, Phường 1 Quận 8, Thành phố Hồ Chí Minh",
+  "DIENTHOAI": "0852303921"
+}]

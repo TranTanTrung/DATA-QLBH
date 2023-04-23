@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "63626b029e87477639b6a28b"
+  },
+  "MATT": "HTTT_TM",
+  "TENTT": "TIỀN MẶT"
+},{
+  "_id": {
+    "$oid": "63626b439e87477639b6a28c"
+  },
+  "MATT": "HTTT_TS",
+  "TENTT": "THẺ SEC"
+},{
+  "_id": {
+    "$oid": "63626b499e87477639b6a28d"
+  },
+  "MATT": "HTTT_CK",
+  "TENTT": "CHUYỂN KHOẢN"
+},{
+  "_id": {
+    "$oid": "63626b559e87477639b6a28e"
+  },
+  "MATT": "HTTT_MM",
+  "TENTT": "MOMO"
+},{
+  "_id": {
+    "$oid": "63626b719e87477639b6a28f"
+  },
+  "MATT": "HTTT_TGN",
+  "TENTT": "THẺ GHI NỢ"
+}]

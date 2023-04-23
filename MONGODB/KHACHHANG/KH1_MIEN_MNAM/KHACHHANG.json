@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "6363606e4f049de5d1071f19"
+  },
+  "MAKH": "KH01",
+  "TENKH": "Trần Thái Nguyên",
+  "NGAYSINH": "2002-06-11",
+  "MIEN": "NAM",
+  "EMAIL": "thainguyen1106@gmail.com"
+},{
+  "_id": {
+    "$oid": "636360864f049de5d1071f1a"
+  },
+  "MAKH": "KH02",
+  "TENKH": "Đoàn Văn Đức",
+  "NGAYSING": "2001-05-01",
+  "MIEN": "NAM",
+  "EMAIL": "vanduc0105@gmail.com"
+},{
+  "_id": {
+    "$oid": "6363608f4f049de5d1071f1b"
+  },
+  "MAKH": "KH03",
+  "TENKH": "Nguyễn Văn Toàn",
+  "NGAYSINH": "2002-08-12",
+  "MIEN": "NAM",
+  "EMAIL": "vantoan1208@gmail.com"
+},{
+  "_id": {
+    "$oid": "6363609c4f049de5d1071f1c"
+  },
+  "MAKH": "KH04",
+  "TENKH": "Trần Tấn Trung",
+  "NGAYSINH": "2002-03-22",
+  "MIEN": "NAM",
+  "EMAIL": "tantrung2203@gmail.com"
+},{
+  "_id": {
+    "$oid": "636360ae4f049de5d1071f1e"
+  },
+  "MAKH": "KH06",
+  "TENKH": "Ngô Thảo Ngân",
+  "NGAYSINH": "2004-05-07",
+  "MIEN": "NAM",
+  "EMAIL": "thaongan0705@gmail.com"
+},{
+  "_id": {
+    "$oid": "636360b54f049de5d1071f1f"
+  },
+  "MAKH": "KH07",
+  "TENKH": "Trương Duy Khanh",
+  "NGAYSINH": "2002-09-03",
+  "MIEN": "NAM",
+  "EMAIL": "duykhanh0309@gmail.com"
+},{
+  "_id": {
+    "$oid": "636360be4f049de5d1071f20"
+  },
+  "MAKH": "KH08",
+  "TENKH": "Lê Thị Thanh Chúc",
+  "NGAYSINH": "2002-05-10",
+  "MIEN": "NAM",
+  "EMAIL": "thanhchuc1005@gmail.com"
+},{
+  "_id": {
+    "$oid": "636360d34f049de5d1071f21"
+  },
+  "MAKH": "KH09",
+  "TENKH": "Trần Bảo Linh",
+  "NGAYSINH": "1999-05-10",
+  "MIEN": "NAM",
+  "EMAIL": "baolinh1005@gmail.com"
+},{
+  "_id": {
+    "$oid": "636360de4f049de5d1071f22"
+  },
+  "MAKH": "KH10",
+  "TENKH": "Trần Công Minh",
+  "NGAYSINH": "1997-10-10",
+  "MIEN": "NAM",
+  "EMAIL": "congminh1010@gmail.com"
+},{
+  "_id": {
+    "$oid": "636360e54f049de5d1071f23"
+  },
+  "MAKH": "KH11",
+  "TENKH": "Nguyễn Thị Huyền Trâm",
+  "NGAYSINH": "1999-09-01",
+  "MIEN": "NAM",
+  "EMAIL": "nguyenthihuyentram0109@gmail.com"
+},{
+  "_id": {
+    "$oid": "636361254f049de5d1071f24"
+  },
+  "MAKH": "KH12",
+  "TENKH": "Dương Phương Quỳnh",
+  "NGAYSINH": "2004-08-25",
+  "MIEN": "NAM",
+  "EMAIL": "phuongquynh2508@gmail.com"
+}]
